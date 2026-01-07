@@ -65,7 +65,7 @@
           <mxGeometry height="30" width="190" x="260" y="380" as="geometry" />
         </mxCell>
         <mxCell id="l1giosHWWahbSdDKuYxU-9" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.user_group;" value="" vertex="1">
-          <mxGeometry height="50" width="35.5" x="710" y="210" as="geometry" />
+          <mxGeometry height="50" width="35.5" x="700" y="210" as="geometry" />
         </mxCell>
         <mxCell id="l1giosHWWahbSdDKuYxU-11" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datacenter;" value="" vertex="1">
           <mxGeometry height="70" width="94.6" x="120" y="50" as="geometry" />

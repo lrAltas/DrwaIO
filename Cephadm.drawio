@@ -16,7 +16,7 @@
         <mxCell id="XnZuwyBdDYpyAWA2jB_W-3" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="430" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="XnZuwyBdDYpyAWA2jB_W-8" edge="1" parent="1" source="XnZuwyBdDYpyAWA2jB_W-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XnZuwyBdDYpyAWA2jB_W-1">
+        <mxCell id="XnZuwyBdDYpyAWA2jB_W-8" edge="1" parent="1" source="XnZuwyBdDYpyAWA2jB_W-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" target="XnZuwyBdDYpyAWA2jB_W-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="340" y="200" />

@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.10">
   <diagram name="第 1 页" id="x-tBoADvMYKyMn224id5">
-    <mxGraphModel dx="991" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="991" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,6 +61,50 @@
         </mxCell>
         <mxCell id="l1giosHWWahbSdDKuYxU-11" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datacenter;" value="" vertex="1">
           <mxGeometry height="70" width="94.6" x="120" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l1giosHWWahbSdDKuYxU-15" edge="1" parent="1" source="l1giosHWWahbSdDKuYxU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" target="l1giosHWWahbSdDKuYxU-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="-40" />
+              <mxPoint x="340" y="-40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1giosHWWahbSdDKuYxU-13" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="330" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="l1giosHWWahbSdDKuYxU-18" edge="1" parent="1" source="l1giosHWWahbSdDKuYxU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l1giosHWWahbSdDKuYxU-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="50" />
+              <mxPoint x="340" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1giosHWWahbSdDKuYxU-20" edge="1" parent="1" source="l1giosHWWahbSdDKuYxU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l1giosHWWahbSdDKuYxU-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="-50" />
+              <mxPoint x="370" y="-50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1giosHWWahbSdDKuYxU-14" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.switch;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="330" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="l1giosHWWahbSdDKuYxU-19" edge="1" parent="1" source="l1giosHWWahbSdDKuYxU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XnZuwyBdDYpyAWA2jB_W-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l1giosHWWahbSdDKuYxU-21" edge="1" parent="1" source="l1giosHWWahbSdDKuYxU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l1giosHWWahbSdDKuYxU-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="50" />
+              <mxPoint x="370" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1giosHWWahbSdDKuYxU-17" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="340" y="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

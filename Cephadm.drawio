@@ -131,6 +131,9 @@
         <mxCell id="l1giosHWWahbSdDKuYxU-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="访问cephadm-01:8443来访问Dashboard" vertex="1">
           <mxGeometry height="30" width="180" x="730" y="100" as="geometry" />
         </mxCell>
+        <mxCell id="l1giosHWWahbSdDKuYxU-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="用户" vertex="1">
+          <mxGeometry height="30" width="60" x="687.75" y="270" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

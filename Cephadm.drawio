@@ -35,6 +35,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="l1giosHWWahbSdDKuYxU-24" edge="1" parent="1" source="XnZuwyBdDYpyAWA2jB_W-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l1giosHWWahbSdDKuYxU-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="120" />
+              <mxPoint x="370" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XnZuwyBdDYpyAWA2jB_W-7" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_switch;" value="" vertex="1">
           <mxGeometry height="26.5" width="50" x="330" y="140" as="geometry" />
         </mxCell>
@@ -93,7 +101,12 @@
           <mxGeometry height="50" width="50" x="330" y="-20" as="geometry" />
         </mxCell>
         <mxCell id="l1giosHWWahbSdDKuYxU-19" edge="1" parent="1" source="l1giosHWWahbSdDKuYxU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XnZuwyBdDYpyAWA2jB_W-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="120" />
+              <mxPoint x="340" y="120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="l1giosHWWahbSdDKuYxU-21" edge="1" parent="1" source="l1giosHWWahbSdDKuYxU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l1giosHWWahbSdDKuYxU-14">
           <mxGeometry relative="1" as="geometry">

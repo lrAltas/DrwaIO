@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="l1giosHWWahbSdDKuYxU-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="400" x="170" y="80" as="geometry" />
+        </mxCell>
         <mxCell id="XnZuwyBdDYpyAWA2jB_W-1" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="230" y="260" as="geometry" />
         </mxCell>
@@ -52,6 +55,12 @@
         </mxCell>
         <mxCell id="l1giosHWWahbSdDKuYxU-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="用户通过访问牵头的集群主机的8443端口来进行仪表盘查看" vertex="1">
           <mxGeometry height="30" width="190" x="260" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="l1giosHWWahbSdDKuYxU-9" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.user_group;" value="" vertex="1">
+          <mxGeometry height="50" width="35.5" x="710" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="l1giosHWWahbSdDKuYxU-11" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datacenter;" value="" vertex="1">
+          <mxGeometry height="70" width="94.6" x="120" y="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

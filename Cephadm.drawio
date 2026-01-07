@@ -36,7 +36,22 @@
           <mxGeometry height="26.5" width="50" x="330" y="140" as="geometry" />
         </mxCell>
         <mxCell id="XnZuwyBdDYpyAWA2jB_W-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;管理网段：10.1.10.0/24&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="180" x="400" y="150" as="geometry" />
+          <mxGeometry height="30" width="180" x="400" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="l1giosHWWahbSdDKuYxU-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;cephadm-01&lt;/div&gt;&lt;div&gt;10.1.10.70&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="225" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="l1giosHWWahbSdDKuYxU-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;cephadm-02&lt;/div&gt;&lt;div&gt;10.1.10.71&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="325" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="l1giosHWWahbSdDKuYxU-4" edge="1" parent="1" source="l1giosHWWahbSdDKuYxU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="l1giosHWWahbSdDKuYxU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l1giosHWWahbSdDKuYxU-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;cephadm-03&lt;/div&gt;&lt;div&gt;10.1.10.72&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="425" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="l1giosHWWahbSdDKuYxU-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="用户通过访问牵头的集群主机的8443端口来进行仪表盘查看" vertex="1">
+          <mxGeometry height="30" width="190" x="260" y="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

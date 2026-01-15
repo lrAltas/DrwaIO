@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.3.1">
   <diagram name="第 1 页" id="hPOpgo1HlYB-iZUWufo7">
-    <mxGraphModel dx="991" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1818" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;strokeColor=#36393d;opacity=60;" value="" vertex="1">
+          <mxGeometry height="340" width="420" x="-245" y="430" as="geometry" />
+        </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;strokeColor=#36393d;opacity=60;" value="" vertex="1">
           <mxGeometry height="325" width="460" x="367" y="810" as="geometry" />
         </mxCell>
@@ -17,6 +20,9 @@
           <mxGeometry height="60" width="120" x="320" y="140" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-9" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;curved=1;" target="wukGSB5jj3LXrUx5TLZB-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-47" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="wukGSB5jj3LXrUx5TLZB-46" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="企业路由器" vertex="1">
@@ -62,6 +68,21 @@
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="集群内部网络" vertex="1">
           <mxGeometry height="30" width="100" x="720" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-51" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="wukGSB5jj3LXrUx5TLZB-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-53" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="wukGSB5jj3LXrUx5TLZB-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-46" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="企业二层可管理交换机" vertex="1">
+          <mxGeometry height="60" width="150" x="-110" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-50" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="双卡网卡Nova节点" vertex="1">
+          <mxGeometry height="60" width="120" x="-190" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-52" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="单卡Nva节点" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

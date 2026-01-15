@@ -87,6 +87,12 @@
         <mxCell id="wukGSB5jj3LXrUx5TLZB-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;div&gt;Nova计算节点网络&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="-85" y="460" as="geometry" />
         </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;strokeColor=#36393d;opacity=60;" value="" vertex="1">
+          <mxGeometry height="130" width="570" x="-420" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-57" parent="1" style="whiteSpace=wrap;html=1;" value="管理网络" vertex="1">
+          <mxGeometry height="60" width="120" x="-360" y="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

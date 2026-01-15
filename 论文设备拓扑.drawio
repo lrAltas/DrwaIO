@@ -100,10 +100,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-79" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;curved=1;opacity=50;" target="wukGSB5jj3LXrUx5TLZB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-57" parent="1" style="whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#000000;" value="&lt;div&gt;管理网络&lt;/div&gt;&lt;div&gt;(Management Network)&lt;/div&gt;&lt;div&gt;vlan 80:10.1.10.0/24&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="-393" y="205" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-78" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;opacity=50;" target="wukGSB5jj3LXrUx5TLZB-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-80" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;opacity=50;curved=1;" target="wukGSB5jj3LXrUx5TLZB-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-59" parent="1" style="whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#000000;" value="&lt;div&gt;供应商网络/浮动IP网络&lt;/div&gt;&lt;div&gt;(Provider Network/Floating Network/External Network)&lt;/div&gt;&lt;div&gt;&lt;div&gt;vlan 90:10.1.20.0/24&lt;/div&gt;&lt;/div&gt;" vertex="1">

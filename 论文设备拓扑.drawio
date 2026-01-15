@@ -42,7 +42,7 @@
         <mxCell id="wukGSB5jj3LXrUx5TLZB-35" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontFamily=Helvetica;" target="wukGSB5jj3LXrUx5TLZB-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wukGSB5jj3LXrUx5TLZB-36" connectable="0" parent="wukGSB5jj3LXrUx5TLZB-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];arcSize=12;noLabel=0;allowArrows=1;autosize=0;fixedWidth=0;fontSize=15;spacing=2;labelBorderColor=default;labelPadding=0;textShadow=0;fontFamily=Helvetica;" value="&lt;div style=&quot;line-height: 200%;&quot;&gt;Trunk 端口&lt;/div&gt;&lt;div&gt;携带vlan 10,20&lt;/div&gt;" vertex="1">
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-36" connectable="0" parent="wukGSB5jj3LXrUx5TLZB-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];arcSize=12;noLabel=0;allowArrows=1;autosize=0;fixedWidth=0;fontSize=15;spacing=2;labelBorderColor=default;labelPadding=0;textShadow=0;fontFamily=Helvetica;labelBackgroundColor=#E6E6E6;" value="&lt;div style=&quot;line-height: 200%;&quot;&gt;Trunk 端口&lt;/div&gt;&lt;div&gt;携带vlan 10,20&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" y="-10" as="offset" />
           </mxGeometry>
@@ -129,7 +129,7 @@
         <mxCell id="wukGSB5jj3LXrUx5TLZB-90" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" target="wukGSB5jj3LXrUx5TLZB-89" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wukGSB5jj3LXrUx5TLZB-91" connectable="0" parent="wukGSB5jj3LXrUx5TLZB-90" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" value="&lt;div&gt;WIFI&lt;/div&gt;&lt;div&gt;浏览器访问:Horzion_IP/dashboard&lt;/div&gt;" vertex="1">
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-91" connectable="0" parent="wukGSB5jj3LXrUx5TLZB-90" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;labelBorderColor=default;labelBackgroundColor=#E6E6E6;" value="&lt;div&gt;WIFI&lt;/div&gt;&lt;div&gt;浏览器访问:Horzion_IP/dashboard&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.1324" y="2" as="geometry">
             <mxPoint x="21" y="2" as="offset" />
           </mxGeometry>
@@ -138,7 +138,7 @@
           <mxGeometry height="60" width="120" x="715" y="280" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-89" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontSize=15;fontFamily=Helvetica;" value="用户" vertex="1">
-          <mxGeometry height="60" width="120" x="1250" y="280" as="geometry" />
+          <mxGeometry height="60" width="120" x="1200" y="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

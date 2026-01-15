@@ -185,6 +185,17 @@
         <mxCell id="wukGSB5jj3LXrUx5TLZB-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=15;" value="物理拓展设备网络" vertex="1">
           <mxGeometry height="30" width="140" x="70" y="525" as="geometry" />
         </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-117" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];arcSize=12;noLabel=0;allowArrows=1;autosize=0;fixedWidth=0;fontSize=15;spacing=2;labelBorderColor=default;labelPadding=0;textShadow=0;fontFamily=Helvetica;labelBackgroundColor=#E6E6E6;" value="&lt;div style=&quot;line-height: 200%;&quot;&gt;Trunk 端口&lt;/div&gt;&lt;div&gt;携带vlan 10,20&lt;/div&gt;" vertex="1">
+          <mxGeometry x="-540" y="705" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-118" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];arcSize=12;noLabel=0;allowArrows=1;autosize=0;fixedWidth=0;fontSize=15;spacing=2;labelBorderColor=default;labelPadding=0;textShadow=0;fontFamily=Helvetica;labelBackgroundColor=#E6E6E6;" value="&lt;div style=&quot;line-height: 200%;&quot;&gt;Trunk 端口&lt;/div&gt;&lt;div&gt;携带vlan 10,20&lt;/div&gt;" vertex="1">
+          <mxGeometry x="-413" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-119" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];arcSize=12;noLabel=0;allowArrows=1;autosize=0;fixedWidth=0;fontSize=15;spacing=2;labelBorderColor=default;labelPadding=0;textShadow=0;fontFamily=Helvetica;labelBackgroundColor=#E6E6E6;" value="&lt;div style=&quot;line-height: 200%;&quot;&gt;Trunk 端口&lt;/div&gt;&lt;div&gt;携带vlan 10,20&lt;/div&gt;" vertex="1">
+          <mxGeometry x="-240" y="650" as="geometry">
+            <mxPoint x="-43" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

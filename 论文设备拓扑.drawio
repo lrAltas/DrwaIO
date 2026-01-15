@@ -88,13 +88,32 @@
           <mxGeometry height="30" width="120" x="-85" y="460" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;strokeColor=#36393d;opacity=60;" value="" vertex="1">
-          <mxGeometry height="130" width="660" x="-510" y="20" as="geometry" />
+          <mxGeometry height="130" width="690" x="-480" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-63" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;" target="wukGSB5jj3LXrUx5TLZB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-64" connectable="0" parent="wukGSB5jj3LXrUx5TLZB-63" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="vlan 80" vertex="1">
+          <mxGeometry relative="1" x="0.0827" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-57" parent="1" style="whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#000000;" value="&lt;div&gt;管理网络&lt;/div&gt;&lt;div&gt;(Management Network)&lt;/div&gt;&lt;div&gt;vlan 80:10.1.10.0/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="170" x="-450" y="55" as="geometry" />
+          <mxGeometry height="60" width="170" x="-383" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-61" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;dashed=1;" target="wukGSB5jj3LXrUx5TLZB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-62" connectable="0" parent="wukGSB5jj3LXrUx5TLZB-61" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="vlan 90" vertex="1">
+          <mxGeometry relative="1" x="-0.2787" y="-21" as="geometry">
+            <mxPoint x="21" y="35" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-59" parent="1" style="whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#000000;" value="&lt;div&gt;供应商网络/浮动IP网络&lt;/div&gt;&lt;div&gt;(Provider Network/Floating Network/External Network)&lt;/div&gt;&lt;div&gt;&lt;div&gt;vlan 90:10.1.20.0/24&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="310" x="-190" y="55" as="geometry" />
+          <mxGeometry height="60" width="310" x="-160" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="网络规划" vertex="1">
+          <mxGeometry height="30" width="70" x="130" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

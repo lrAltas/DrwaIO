@@ -141,8 +141,8 @@
         <mxCell id="wukGSB5jj3LXrUx5TLZB-53" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;fontSize=15;fontFamily=Helvetica;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="wukGSB5jj3LXrUx5TLZB-52" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wukGSB5jj3LXrUx5TLZB-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=15;fontFamily=Helvetica;" value="&lt;div&gt;Nova计算节点网络&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="120" y="680" as="geometry" />
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=15;fontFamily=Helvetica;" value="&lt;div&gt;Nova计算节点&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="135" y="680" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-101" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];arcSize=12;noLabel=0;allowArrows=1;autosize=0;fixedWidth=0;fontSize=15;spacing=2;labelBorderColor=default;labelPadding=0;textShadow=0;fontFamily=Helvetica;labelBackgroundColor=#E6E6E6;" value="&lt;div style=&quot;line-height: 200%;&quot;&gt;Trunk 端口&lt;/div&gt;&lt;div&gt;携带vlan 10,20&lt;/div&gt;" vertex="1">
           <mxGeometry x="10" y="760" as="geometry" />
@@ -179,8 +179,8 @@
         <mxCell id="wukGSB5jj3LXrUx5TLZB-109" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="wukGSB5jj3LXrUx5TLZB-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wukGSB5jj3LXrUx5TLZB-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=15;" value="Ceph集群网络" vertex="1">
-          <mxGeometry height="30" width="120" x="-310" y="690" as="geometry" />
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=15;" value="Ceph集群" vertex="1">
+          <mxGeometry height="30" width="90" x="-295" y="690" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=15;" value="物理拓展设备网络" vertex="1">
           <mxGeometry height="30" width="140" x="70" y="525" as="geometry" />

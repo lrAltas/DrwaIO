@@ -92,7 +92,7 @@
         <mxCell id="wukGSB5jj3LXrUx5TLZB-50" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Helvetica;" value="双卡网卡Nova节点" vertex="1">
           <mxGeometry height="60" width="120" x="-30" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="wukGSB5jj3LXrUx5TLZB-52" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Helvetica;" value="单卡Nva节点" vertex="1">
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-52" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Helvetica;" value="单网卡Nva节点" vertex="1">
           <mxGeometry height="60" width="120" x="150" y="720" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=15;fontFamily=Helvetica;" value="&lt;div&gt;Nova计算节点网络&lt;/div&gt;" vertex="1">

@@ -84,6 +84,9 @@
         <mxCell id="wukGSB5jj3LXrUx5TLZB-52" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="单卡Nva节点" vertex="1">
           <mxGeometry height="60" width="120" x="30" y="660" as="geometry" />
         </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;div&gt;Nova计算节点网络&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="-230" y="440" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

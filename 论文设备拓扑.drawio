@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.3.1">
   <diagram name="第 1 页" id="hPOpgo1HlYB-iZUWufo7">
-    <mxGraphModel dx="1771" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1993" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wukGSB5jj3LXrUx5TLZB-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;strokeColor=#36393d;opacity=60;fontSize=15;fontFamily=Helvetica;" value="" vertex="1">
-          <mxGeometry height="340" width="440" x="-100" y="450" as="geometry" />
+          <mxGeometry height="490" width="440" x="-100" y="450" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;strokeColor=#36393d;opacity=60;fontSize=15;fontFamily=Helvetica;" value="" vertex="1">
           <mxGeometry height="325" width="460" x="367" y="810" as="geometry" />
@@ -90,10 +90,10 @@
           <mxGeometry height="60" width="150" x="35" y="500" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-50" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Helvetica;" value="双卡网卡Nova节点" vertex="1">
-          <mxGeometry height="60" width="120" x="-45" y="680" as="geometry" />
+          <mxGeometry height="60" width="120" x="-60" y="790" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-52" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Helvetica;" value="单卡Nva节点" vertex="1">
-          <mxGeometry height="60" width="120" x="175" y="680" as="geometry" />
+          <mxGeometry height="60" width="120" x="175" y="790" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=15;fontFamily=Helvetica;" value="&lt;div&gt;Nova计算节点网络&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="-100" y="460" as="geometry" />
@@ -139,6 +139,9 @@
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-89" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontSize=15;fontFamily=Helvetica;" value="用户" vertex="1">
           <mxGeometry height="60" width="120" x="1200" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-93" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];arcSize=12;noLabel=0;allowArrows=1;autosize=0;fixedWidth=0;fontSize=15;spacing=2;labelBorderColor=default;labelPadding=0;textShadow=0;fontFamily=Helvetica;labelBackgroundColor=#E6E6E6;" value="&lt;div style=&quot;line-height: 200%;&quot;&gt;Trunk 端口&lt;/div&gt;&lt;div&gt;携带vlan 10,20&lt;/div&gt;" vertex="1">
+          <mxGeometry x="110" y="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

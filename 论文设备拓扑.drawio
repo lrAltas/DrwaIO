@@ -53,8 +53,8 @@
         <mxCell id="wukGSB5jj3LXrUx5TLZB-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFCCE6;strokeColor=#36393d;fontSize=15;fontFamily=Helvetica;" value="&lt;div&gt;虚拟化服务器&lt;/div&gt;&lt;div&gt;Linux(CentOS Stream 9)+KVM&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="230" x="475" y="710" as="geometry" />
         </mxCell>
-        <mxCell id="wukGSB5jj3LXrUx5TLZB-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=15;fontFamily=Helvetica;" value="虚拟化集群网络" vertex="1">
-          <mxGeometry height="30" width="130" x="670" y="450" as="geometry" />
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=15;fontFamily=Helvetica;" value="虚拟化服务器网络" vertex="1">
+          <mxGeometry height="30" width="140" x="665" y="450" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=15;fontFamily=Helvetica;" value="集群内部网络" vertex="1">
           <mxGeometry height="30" width="110" x="750" y="820" as="geometry" />

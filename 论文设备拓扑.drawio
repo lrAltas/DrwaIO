@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.3.1">
   <diagram name="第 1 页" id="hPOpgo1HlYB-iZUWufo7">
-    <mxGraphModel dx="1993" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2479" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,6 +75,15 @@
         <mxCell id="wukGSB5jj3LXrUx5TLZB-79" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;curved=1;opacity=50;fontSize=15;fontFamily=Helvetica;" target="wukGSB5jj3LXrUx5TLZB-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-112" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;dashPattern=8 8;opacity=50;" target="wukGSB5jj3LXrUx5TLZB-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-113" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;opacity=50;" target="wukGSB5jj3LXrUx5TLZB-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-114" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;opacity=50;" target="wukGSB5jj3LXrUx5TLZB-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-57" parent="1" style="whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#000000;fontSize=15;fontFamily=Helvetica;" value="&lt;div&gt;管理网络&lt;/div&gt;&lt;div&gt;(Management Network)&lt;/div&gt;&lt;div&gt;vlan 80:10.1.10.0/24&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="-393" y="185" as="geometry" />
         </mxCell>
@@ -84,7 +93,7 @@
         <mxCell id="wukGSB5jj3LXrUx5TLZB-80" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;opacity=50;curved=1;fontSize=15;fontFamily=Helvetica;" target="wukGSB5jj3LXrUx5TLZB-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wukGSB5jj3LXrUx5TLZB-95" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-95" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=70;" value="" vertex="1">
           <mxGeometry height="190" width="520" x="321.5" y="910" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-59" parent="1" style="whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#000000;fontSize=15;fontFamily=Helvetica;" value="&lt;div&gt;供应商网络/浮动IP网络&lt;/div&gt;&lt;div&gt;(Provider Network/Floating Network/External Network)&lt;/div&gt;&lt;div&gt;&lt;div&gt;vlan 90:10.1.20.0/24&lt;/div&gt;&lt;/div&gt;" vertex="1">
@@ -147,7 +156,7 @@
           <mxGeometry x="160" y="760" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-103" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=70;" value="" vertex="1">
-          <mxGeometry height="250" width="470" x="-640" y="680" as="geometry" />
+          <mxGeometry height="250" width="440" x="-630" y="680" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-104" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Helvetica;" value="Ceph节点" vertex="1">
           <mxGeometry height="60" width="120" x="-620" y="855" as="geometry" />
@@ -170,7 +179,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=15;" value="Ceph集群网络" vertex="1">
-          <mxGeometry height="30" width="120" x="-300" y="690" as="geometry" />
+          <mxGeometry height="30" width="120" x="-310" y="690" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=15;" value="物理拓展设备网络" vertex="1">
           <mxGeometry height="30" width="140" x="70" y="525" as="geometry" />

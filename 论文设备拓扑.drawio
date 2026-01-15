@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;strokeColor=#36393d;opacity=60;" value="" vertex="1">
+          <mxGeometry height="210" width="510" x="340" y="935" as="geometry" />
+        </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;strokeColor=#36393d;opacity=60;" value="" vertex="1">
           <mxGeometry height="430" width="420" x="380" y="430" as="geometry" />
         </mxCell>
@@ -39,11 +42,11 @@
         <mxCell id="wukGSB5jj3LXrUx5TLZB-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFCCE6;strokeColor=#36393d;" value="&lt;div&gt;虚拟化服务器&lt;/div&gt;&lt;div&gt;Linux(CentOS Stream 9)+KVM&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="230" x="475" y="710" as="geometry" />
         </mxCell>
-        <mxCell id="wukGSB5jj3LXrUx5TLZB-22" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="420" y="920" as="geometry" />
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-22" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="OpenStack计算节点" vertex="1">
+          <mxGeometry height="60" width="130" x="380" y="1010" as="geometry" />
         </mxCell>
-        <mxCell id="wukGSB5jj3LXrUx5TLZB-24" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="640" y="920" as="geometry" />
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-24" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="OpenStack服务管理节点" vertex="1">
+          <mxGeometry height="60" width="180" x="620" y="1010" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="虚拟化集群网络" vertex="1">
           <mxGeometry height="30" width="110" x="680" y="450" as="geometry" />

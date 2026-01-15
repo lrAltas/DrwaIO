@@ -172,6 +172,9 @@
         <mxCell id="wukGSB5jj3LXrUx5TLZB-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=15;" value="Ceph集群网络" vertex="1">
           <mxGeometry height="30" width="120" x="-300" y="690" as="geometry" />
         </mxCell>
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=15;" value="物理拓展设备网络" vertex="1">
+          <mxGeometry height="30" width="140" x="70" y="525" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

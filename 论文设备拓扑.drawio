@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.3.1">
   <diagram name="第 1 页" id="hPOpgo1HlYB-iZUWufo7">
-    <mxGraphModel dx="1870" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
           <mxGeometry height="30" width="120" x="-85" y="460" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;strokeColor=#36393d;opacity=60;" value="" vertex="1">
-          <mxGeometry height="130" width="690" x="-450" y="200" as="geometry" />
+          <mxGeometry height="130" width="690" x="-735" y="40" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-66" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;opacity=50;" target="wukGSB5jj3LXrUx5TLZB-50">
           <mxGeometry relative="1" as="geometry">
@@ -105,26 +105,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-57" parent="1" style="whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#000000;" value="&lt;div&gt;管理网络&lt;/div&gt;&lt;div&gt;(Management Network)&lt;/div&gt;&lt;div&gt;vlan 80:10.1.10.0/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="170" x="-353" y="235" as="geometry" />
+          <mxGeometry height="60" width="170" x="-638" y="75" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-68" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;opacity=50;" target="wukGSB5jj3LXrUx5TLZB-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-150" y="295" />
-              <mxPoint x="-150" y="695" />
+              <mxPoint x="-260" y="695" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-59" parent="1" style="whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#000000;" value="&lt;div&gt;供应商网络/浮动IP网络&lt;/div&gt;&lt;div&gt;(Provider Network/Floating Network/External Network)&lt;/div&gt;&lt;div&gt;&lt;div&gt;vlan 90:10.1.20.0/24&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="310" x="-130" y="235" as="geometry" />
+          <mxGeometry height="60" width="310" x="-415" y="75" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="网络规划" vertex="1">
-          <mxGeometry height="30" width="70" x="160" y="200" as="geometry" />
+          <mxGeometry height="30" width="70" x="-125" y="40" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-61" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;opacity=50;" target="wukGSB5jj3LXrUx5TLZB-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="25" y="440" />
+              <mxPoint x="-260" y="440" />
               <mxPoint x="560" y="440" />
             </Array>
           </mxGeometry>

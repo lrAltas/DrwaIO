@@ -105,16 +105,16 @@
         <mxCell id="wukGSB5jj3LXrUx5TLZB-90" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" target="wukGSB5jj3LXrUx5TLZB-89" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wukGSB5jj3LXrUx5TLZB-91" connectable="0" parent="wukGSB5jj3LXrUx5TLZB-90" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;labelBorderColor=default;labelBackgroundColor=#E6E6E6;" value="&lt;div&gt;WIFI&lt;/div&gt;&lt;div&gt;浏览器访问:Horzion_IP/dashboard&lt;/div&gt;" vertex="1">
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-91" connectable="0" parent="wukGSB5jj3LXrUx5TLZB-90" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;labelBorderColor=default;labelBackgroundColor=#E6E6E6;" value="&lt;div&gt;WIFI&lt;/div&gt;&lt;div&gt;浏览器访问:Horzion_IP/dashboard即可访问云平台仪表盘&lt;/div&gt;&lt;div&gt;浏览器访问:Ceph01_IP:8080即可访问Ceph存储仪表盘&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.1324" y="2" as="geometry">
-            <mxPoint x="21" y="2" as="offset" />
+            <mxPoint x="27" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-83" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontSize=15;fontFamily=Helvetica;" value="家庭路由器" vertex="1">
-          <mxGeometry height="60" width="120" x="715" y="280" as="geometry" />
+          <mxGeometry height="60" width="120" x="640" y="280" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-89" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontSize=15;fontFamily=Helvetica;" value="用户" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="280" as="geometry" />
+          <mxGeometry height="60" width="120" x="1230" y="280" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-22" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=auto;fontSize=15;fontFamily=Helvetica;" value="测试OpenStack计算节点" vertex="1">
           <mxGeometry height="60" width="153" x="414" y="1005" as="geometry" />

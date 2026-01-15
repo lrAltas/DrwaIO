@@ -52,7 +52,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-22" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=auto;" value="测试OpenStack计算节点" vertex="1">
-          <mxGeometry height="60" width="130" x="387" y="885" as="geometry" />
+          <mxGeometry height="60" width="153" x="387" y="885" as="geometry" />
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-42" edge="1" parent="1" source="wukGSB5jj3LXrUx5TLZB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="wukGSB5jj3LXrUx5TLZB-41" value="">
           <mxGeometry relative="1" as="geometry" />

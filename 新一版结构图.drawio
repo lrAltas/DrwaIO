@@ -14,10 +14,10 @@
           <mxGeometry height="30" width="70" x="260" y="144.55" as="geometry" />
         </mxCell>
         <mxCell id="5rgFjH6ITXqFgaGaH-Mf-78" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" value="主机信息一览表" vertex="1">
-          <mxGeometry height="230" width="1350" x="610" y="120" as="geometry" />
+          <mxGeometry height="230" width="1230" x="610" y="120" as="geometry" />
         </mxCell>
         <mxCell id="5rgFjH6ITXqFgaGaH-Mf-79" parent="5rgFjH6ITXqFgaGaH-Mf-78" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="49" width="1350" y="30" as="geometry" />
+          <mxGeometry height="49" width="1230" y="30" as="geometry" />
         </mxCell>
         <mxCell id="5rgFjH6ITXqFgaGaH-Mf-80" parent="5rgFjH6ITXqFgaGaH-Mf-79" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="角色" vertex="1">
           <mxGeometry height="49" width="193" as="geometry">
@@ -50,12 +50,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5rgFjH6ITXqFgaGaH-Mf-86" parent="5rgFjH6ITXqFgaGaH-Mf-79" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="运行服务" vertex="1">
-          <mxGeometry height="49" width="580" x="770" as="geometry">
-            <mxRectangle height="49" width="580" as="alternateBounds" />
+          <mxGeometry height="49" width="460" x="770" as="geometry">
+            <mxRectangle height="49" width="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5rgFjH6ITXqFgaGaH-Mf-87" parent="5rgFjH6ITXqFgaGaH-Mf-78" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="52" width="1350" y="79" as="geometry" />
+          <mxGeometry height="52" width="1230" y="79" as="geometry" />
         </mxCell>
         <mxCell id="5rgFjH6ITXqFgaGaH-Mf-88" parent="5rgFjH6ITXqFgaGaH-Mf-87" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Controller/控制节点" vertex="1">
           <mxGeometry height="52" width="193" as="geometry">
@@ -88,12 +88,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5rgFjH6ITXqFgaGaH-Mf-94" parent="5rgFjH6ITXqFgaGaH-Mf-87" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="MariaDB,RabbitMQ,KeyStone,Glance,Placement,Nova,Neutron,Horzion,Cinder" vertex="1">
-          <mxGeometry height="52" width="580" x="770" as="geometry">
-            <mxRectangle height="52" width="580" as="alternateBounds" />
+          <mxGeometry height="52" width="460" x="770" as="geometry">
+            <mxRectangle height="52" width="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5rgFjH6ITXqFgaGaH-Mf-95" parent="5rgFjH6ITXqFgaGaH-Mf-78" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="50" width="1350" y="131" as="geometry" />
+          <mxGeometry height="50" width="1230" y="131" as="geometry" />
         </mxCell>
         <mxCell id="5rgFjH6ITXqFgaGaH-Mf-96" parent="5rgFjH6ITXqFgaGaH-Mf-95" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Compute/计算节点" vertex="1">
           <mxGeometry height="50" width="193" as="geometry">
@@ -126,12 +126,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5rgFjH6ITXqFgaGaH-Mf-102" parent="5rgFjH6ITXqFgaGaH-Mf-95" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Nova,Neutron" vertex="1">
-          <mxGeometry height="50" width="580" x="770" as="geometry">
-            <mxRectangle height="50" width="580" as="alternateBounds" />
+          <mxGeometry height="50" width="460" x="770" as="geometry">
+            <mxRectangle height="50" width="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5rgFjH6ITXqFgaGaH-Mf-103" parent="5rgFjH6ITXqFgaGaH-Mf-78" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="49" width="1350" y="181" as="geometry" />
+          <mxGeometry height="49" width="1230" y="181" as="geometry" />
         </mxCell>
         <mxCell id="5rgFjH6ITXqFgaGaH-Mf-104" parent="5rgFjH6ITXqFgaGaH-Mf-103" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Compute/计算节点" vertex="1">
           <mxGeometry height="49" width="193" as="geometry">
@@ -164,8 +164,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5rgFjH6ITXqFgaGaH-Mf-110" parent="5rgFjH6ITXqFgaGaH-Mf-103" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Nova,Neutron" vertex="1">
-          <mxGeometry height="49" width="580" x="770" as="geometry">
-            <mxRectangle height="49" width="580" as="alternateBounds" />
+          <mxGeometry height="49" width="460" x="770" as="geometry">
+            <mxRectangle height="49" width="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>

@@ -7,8 +7,8 @@
         <mxCell id="bXSsK7cuo8FAHsRER218-36" edge="1" parent="1" source="kVuJSSJ7oAV_Uql-cOIw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="bXSsK7cuo8FAHsRER218-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kVuJSSJ7oAV_Uql-cOIw-7" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.1u_2u_server;" value="&lt;div&gt;运行controller虚拟机节点的主机&lt;/div&gt;&lt;div&gt;&lt;div&gt;可以采用老旧服务器，也可采用普通PC主机&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="39.1" width="100" x="190" y="203" as="geometry" />
+        <mxCell id="kVuJSSJ7oAV_Uql-cOIw-7" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.1u_2u_server;strokeWidth=0;" value="&lt;div&gt;运行controller虚拟机节点的主机&lt;/div&gt;&lt;div&gt;&lt;div&gt;可以采用老旧服务器，也可采用普通PC主机&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="39.1" width="100" x="140" y="203" as="geometry" />
         </mxCell>
         <mxCell id="5rgFjH6ITXqFgaGaH-Mf-78" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" value="主机信息一览表" vertex="1">
           <mxGeometry height="492" width="1190" x="1150" y="120" as="geometry" />

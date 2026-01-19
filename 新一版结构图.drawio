@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.2" pages="2">
   <diagram name="第 1 页" id="noTy-Vqhf-9WsrHv5q4C">
-    <mxGraphModel dx="1689" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bXSsK7cuo8FAHsRER218-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=50;" value="" vertex="1">
-          <mxGeometry height="120" width="240" x="-20" y="40" as="geometry" />
+          <mxGeometry height="120" width="240" x="70" y="40" as="geometry" />
         </mxCell>
         <mxCell id="bXSsK7cuo8FAHsRER218-36" edge="1" parent="1" source="kVuJSSJ7oAV_Uql-cOIw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="bXSsK7cuo8FAHsRER218-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kVuJSSJ7oAV_Uql-cOIw-7" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.1u_2u_server;strokeWidth=0;" value="&lt;div&gt;运行controller虚拟机节点的主机&lt;/div&gt;&lt;div&gt;&lt;div&gt;可以采用老旧服务器，也可采用普通PC主机&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="39.1" width="100" x="70" y="203" as="geometry" />
+          <mxGeometry height="39.1" width="100" x="160" y="203" as="geometry" />
         </mxCell>
         <mxCell id="5rgFjH6ITXqFgaGaH-Mf-78" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" value="主机信息一览表" vertex="1">
           <mxGeometry height="492" width="1190" x="1150" y="120" as="geometry" />
@@ -382,16 +382,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bXSsK7cuo8FAHsRER218-67" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dns_server;" value="DNS_Server" vertex="1">
-          <mxGeometry height="56.22" width="46.5" x="50" y="74.78" as="geometry" />
+          <mxGeometry height="56.22" width="46.5" x="140" y="74.78" as="geometry" />
         </mxCell>
         <mxCell id="bXSsK7cuo8FAHsRER218-74" edge="1" parent="1" source="bXSsK7cuo8FAHsRER218-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="kVuJSSJ7oAV_Uql-cOIw-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bXSsK7cuo8FAHsRER218-69" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dns_server;" value="Controller节点" vertex="1">
-          <mxGeometry height="56.22" width="46.5" x="140" y="74.78" as="geometry" />
+          <mxGeometry height="56.22" width="46.5" x="230" y="74.78" as="geometry" />
         </mxCell>
         <mxCell id="bXSsK7cuo8FAHsRER218-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="虚拟化节点" vertex="1">
-          <mxGeometry height="30" width="80" x="-20" y="40" as="geometry" />
+          <mxGeometry height="30" width="80" x="70" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

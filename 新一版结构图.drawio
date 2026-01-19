@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.2" pages="2">
   <diagram name="第 1 页" id="noTy-Vqhf-9WsrHv5q4C">
-    <mxGraphModel dx="1802" dy="2142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1043" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -398,6 +398,30 @@
         </mxCell>
         <mxCell id="bXSsK7cuo8FAHsRER218-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;物理架构规划&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="190" x="910" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-77" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="Controller节点" vertex="1">
+          <mxGeometry height="80" width="80" x="136" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-78" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="Compute01" vertex="1">
+          <mxGeometry height="80" width="80" x="296" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-79" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="Compute03" vertex="1">
+          <mxGeometry height="80" width="80" x="456" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-80" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="Ceph01" vertex="1">
+          <mxGeometry height="80" width="80" x="614" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-81" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="&lt;div&gt;Ceph02&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="774" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-82" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="Ceph03" vertex="1">
+          <mxGeometry height="80" width="80" x="934" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;浮动IP网段/供应商网络&lt;/div&gt;&lt;div&gt;网段:10.1.20.0/24&lt;/div&gt;&lt;div&gt;网关:10.1.20.1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="146" x="250" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;管理网段:10.1.10.0/24&lt;/div&gt;&lt;div&gt;网关:10.1.10.1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="165" x="515" y="1050" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,17 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.2" pages="2">
   <diagram name="第 1 页" id="noTy-Vqhf-9WsrHv5q4C">
-    <mxGraphModel dx="991" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1818" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kVuJSSJ7oAV_Uql-cOIw-7" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.1u_2u_server;" value="" vertex="1">
-          <mxGeometry height="39.1" width="100" x="330" y="140" as="geometry" />
+        <mxCell id="bXSsK7cuo8FAHsRER218-36" edge="1" parent="1" source="kVuJSSJ7oAV_Uql-cOIw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="bXSsK7cuo8FAHsRER218-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kVuJSSJ7oAV_Uql-cOIw-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;div&gt;运行controller虚拟机节点的主机&lt;/div&gt;&lt;div&gt;可以采用老旧服务器，也可采用普通PC主机&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="260" x="250" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="kVuJSSJ7oAV_Uql-cOIw-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="controller" vertex="1">
-          <mxGeometry height="30" width="70" x="260" y="144.55" as="geometry" />
+        <mxCell id="kVuJSSJ7oAV_Uql-cOIw-7" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.1u_2u_server;" value="&lt;div&gt;controller&lt;/div&gt;&lt;div&gt;&lt;div&gt;运行controller虚拟机节点的主机&lt;/div&gt;&lt;div&gt;可以采用老旧服务器，也可采用普通PC主机&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="39.1" width="100" x="60" y="252" as="geometry" />
         </mxCell>
         <mxCell id="5rgFjH6ITXqFgaGaH-Mf-78" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" value="主机信息一览表" vertex="1">
           <mxGeometry height="492" width="1190" x="1150" y="120" as="geometry" />
@@ -319,6 +316,59 @@
           <mxGeometry height="71" width="440" x="750" as="geometry">
             <mxRectangle height="71" width="440" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-41" edge="1" parent="1" source="bXSsK7cuo8FAHsRER218-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;startArrow=classic;startFill=1;" target="bXSsK7cuo8FAHsRER218-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-44" edge="1" parent="1" source="bXSsK7cuo8FAHsRER218-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;startArrow=classic;startFill=1;" target="bXSsK7cuo8FAHsRER218-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-49" edge="1" parent="1" source="bXSsK7cuo8FAHsRER218-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="bXSsK7cuo8FAHsRER218-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-34" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" value="可配置交换机" vertex="1">
+          <mxGeometry height="41.5" width="92" x="330" y="251" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-37" edge="1" parent="1" source="bXSsK7cuo8FAHsRER218-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="bXSsK7cuo8FAHsRER218-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-48" edge="1" parent="1" source="bXSsK7cuo8FAHsRER218-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="bXSsK7cuo8FAHsRER218-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-35" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.router;" value="可配置路由器" vertex="1">
+          <mxGeometry height="36.5" width="55" x="500" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-40" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" value="compute01节点" vertex="1">
+          <mxGeometry height="98" width="89" x="140" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-42" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" value="compute02节点" vertex="1">
+          <mxGeometry height="98" width="89" x="260" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-58" edge="1" parent="1" source="bXSsK7cuo8FAHsRER218-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;startArrow=classic;startFill=1;" target="bXSsK7cuo8FAHsRER218-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-59" edge="1" parent="1" source="bXSsK7cuo8FAHsRER218-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;curved=1;" target="bXSsK7cuo8FAHsRER218-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-61" edge="1" parent="1" source="bXSsK7cuo8FAHsRER218-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;startArrow=classic;startFill=1;" target="bXSsK7cuo8FAHsRER218-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="676" y="370" />
+              <mxPoint x="783" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-46" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" value="可配置交换机" vertex="1">
+          <mxGeometry height="41.5" width="92" x="630" y="250.8" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-50" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" value="Ceph02" vertex="1">
+          <mxGeometry height="98" width="89" x="560" y="536" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-52" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" value="Ceph01" vertex="1">
+          <mxGeometry height="98" width="89" x="649" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="bXSsK7cuo8FAHsRER218-53" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" value="Ceph03" vertex="1">
+          <mxGeometry height="98" width="89" x="738" y="536" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

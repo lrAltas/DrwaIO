@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bXSsK7cuo8FAHsRER218-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" value="" vertex="1">
-          <mxGeometry height="640" width="930" x="50" y="800" as="geometry" />
+          <mxGeometry height="640" width="930" x="110" y="680" as="geometry" />
         </mxCell>
         <mxCell id="bXSsK7cuo8FAHsRER218-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" value="" vertex="1">
           <mxGeometry height="680" width="1110" x="20" y="-20" as="geometry" />
@@ -403,22 +403,22 @@
           <mxGeometry height="50" width="190" x="910" y="30" as="geometry" />
         </mxCell>
         <mxCell id="bXSsK7cuo8FAHsRER218-77" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="Controller节点" vertex="1">
-          <mxGeometry height="80" width="80" x="67" y="1100" as="geometry" />
+          <mxGeometry height="80" width="80" x="127" y="980" as="geometry" />
         </mxCell>
         <mxCell id="bXSsK7cuo8FAHsRER218-78" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="Compute01" vertex="1">
-          <mxGeometry height="80" width="80" x="227" y="1100" as="geometry" />
+          <mxGeometry height="80" width="80" x="287" y="980" as="geometry" />
         </mxCell>
         <mxCell id="bXSsK7cuo8FAHsRER218-79" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="Compute03" vertex="1">
-          <mxGeometry height="80" width="80" x="387" y="1100" as="geometry" />
+          <mxGeometry height="80" width="80" x="447" y="980" as="geometry" />
         </mxCell>
         <mxCell id="bXSsK7cuo8FAHsRER218-80" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="Ceph01" vertex="1">
-          <mxGeometry height="80" width="80" x="545" y="1100" as="geometry" />
+          <mxGeometry height="80" width="80" x="605" y="980" as="geometry" />
         </mxCell>
         <mxCell id="bXSsK7cuo8FAHsRER218-81" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="&lt;div&gt;Ceph02&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="705" y="1100" as="geometry" />
+          <mxGeometry height="80" width="80" x="765" y="980" as="geometry" />
         </mxCell>
         <mxCell id="bXSsK7cuo8FAHsRER218-82" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="Ceph03" vertex="1">
-          <mxGeometry height="80" width="80" x="865" y="1100" as="geometry" />
+          <mxGeometry height="80" width="80" x="925" y="980" as="geometry" />
         </mxCell>
         <mxCell id="bXSsK7cuo8FAHsRER218-86" edge="1" parent="1" source="bXSsK7cuo8FAHsRER218-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;dashPattern=8 8;" target="bXSsK7cuo8FAHsRER218-77">
           <mxGeometry relative="1" as="geometry" />
@@ -430,7 +430,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bXSsK7cuo8FAHsRER218-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;浮动IP网段/供应商网络&lt;/div&gt;&lt;div&gt;网段:10.1.20.0/24&lt;/div&gt;&lt;div&gt;网关:10.1.20.1&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="180" x="177" y="1320" as="geometry" />
+          <mxGeometry height="60" width="180" x="237" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="bXSsK7cuo8FAHsRER218-89" edge="1" parent="1" source="bXSsK7cuo8FAHsRER218-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="bXSsK7cuo8FAHsRER218-77">
           <mxGeometry relative="1" as="geometry" />
@@ -451,7 +451,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bXSsK7cuo8FAHsRER218-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;管理网段:10.1.10.0/24&lt;/div&gt;&lt;div&gt;网关:10.1.10.1&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="165" x="446" y="900" as="geometry" />
+          <mxGeometry height="60" width="165" x="506" y="780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

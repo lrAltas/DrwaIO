@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.3">
+  <diagram name="第 1 页" id="OguS1898Y3-wxarElpYR">
+    <mxGraphModel dx="991" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M7zXouaRSHaFJMm7qHEp-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" value="" vertex="1">
+          <mxGeometry height="450" width="630" x="140" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="M7zXouaRSHaFJMm7qHEp-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ONTAP集群管理平台&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="140" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="M7zXouaRSHaFJMm7qHEp-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;控制器1&lt;/div&gt;&lt;div&gt;也就是单个具有控制框的存储服务器&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="M7zXouaRSHaFJMm7qHEp-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;控制器2&lt;/div&gt;&lt;div&gt;也就是单个具有控制框的存储服务器&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

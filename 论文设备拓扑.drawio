@@ -135,8 +135,10 @@
         <mxCell id="wukGSB5jj3LXrUx5TLZB-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=15;fontFamily=Helvetica;" value="&lt;div&gt;Nova计算节点&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="135" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="wukGSB5jj3LXrUx5TLZB-101" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];arcSize=12;noLabel=0;allowArrows=1;autosize=0;fixedWidth=0;fontSize=15;spacing=2;labelBorderColor=default;labelPadding=0;textShadow=0;fontFamily=Helvetica;labelBackgroundColor=#E6E6E6;" value="&lt;div style=&quot;line-height: 200%;&quot;&gt;Trunk 端口&lt;/div&gt;&lt;div&gt;携带vlan 10,20&lt;/div&gt;" vertex="1">
-          <mxGeometry x="10" y="760" as="geometry" />
+        <mxCell id="wukGSB5jj3LXrUx5TLZB-101" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];arcSize=12;noLabel=0;allowArrows=1;autosize=0;fixedWidth=0;fontSize=15;spacing=2;labelBorderColor=default;labelPadding=0;textShadow=0;fontFamily=Helvetica;labelBackgroundColor=#E6E6E6;" value="&lt;div style=&quot;line-height: 200%;&quot;&gt;Access端口&lt;/div&gt;&lt;div&gt;vlan id 10 20&lt;/div&gt;" vertex="1">
+          <mxGeometry x="10" y="760" as="geometry">
+            <mxPoint x="4" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wukGSB5jj3LXrUx5TLZB-50" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Helvetica;" value="双卡网卡Nova节点" vertex="1">
           <mxGeometry height="60" width="120" x="-40" y="820" as="geometry" />

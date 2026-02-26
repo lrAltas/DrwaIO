@@ -135,7 +135,7 @@
           <mxGeometry height="30" width="60" x="670.25" y="400" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="可配置路由器" vertex="1">
-          <mxGeometry height="30" width="90" x="390.25" y="110" as="geometry" />
+          <mxGeometry height="30" width="90" x="390.25" y="120" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;三层/二层&lt;/div&gt;&lt;div&gt;企业可配置交换机&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="210" y="170" as="geometry" />

@@ -59,8 +59,8 @@
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-21" edge="1" parent="1" source="5aikNTGSVbQ0lq5X6MTc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5aikNTGSVbQ0lq5X6MTc-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="330" />
-              <mxPoint x="580" y="330" />
+              <mxPoint x="580" y="320" />
+              <mxPoint x="650" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -68,7 +68,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="320" />
-              <mxPoint x="640" y="320" />
+              <mxPoint x="710" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -79,13 +79,13 @@
           <mxGeometry height="50" width="20.5" x="510" y="350" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-24" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;" value="" vertex="1">
-          <mxGeometry height="50" width="20.5" x="570" y="350" as="geometry" />
+          <mxGeometry height="50" width="20.5" x="639.75" y="350" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Controller节点" vertex="1">
           <mxGeometry height="30" width="60" x="160" y="410" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-27" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;" value="" vertex="1">
-          <mxGeometry height="50" width="20.5" x="630" y="350" as="geometry" />
+          <mxGeometry height="50" width="20.5" x="699.75" y="350" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Nova节点&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="220" y="410" as="geometry" />
@@ -93,14 +93,14 @@
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Nova节点&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="280" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="5aikNTGSVbQ0lq5X6MTc-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph节点" vertex="1">
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cephadm_Bootstrap节点" vertex="1">
           <mxGeometry height="30" width="60" x="490.25" y="410" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph节点" vertex="1">
-          <mxGeometry height="30" width="60" x="550.25" y="410" as="geometry" />
+          <mxGeometry height="30" width="60" x="620" y="410" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph节点" vertex="1">
-          <mxGeometry height="30" width="60" x="610.25" y="410" as="geometry" />
+          <mxGeometry height="30" width="60" x="680" y="410" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="可配置路由器" vertex="1">
           <mxGeometry height="30" width="90" x="390.25" y="120" as="geometry" />

@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-43" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#5D7F99;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;labelBackgroundColor=none;fontColor=#1A1A1A;" value="&lt;div&gt;OpenStack-Controller节点&lt;/div&gt;&lt;div&gt;eth1：管理网段 10.1.10.10/24&lt;/div&gt;&lt;div&gt;eth2：浮动IP网段 10.1.20.0/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="32.8" x="160" y="310" as="geometry" />
+          <mxGeometry height="80" width="32.8" x="160" y="350" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-45" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#5D7F99;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;labelBackgroundColor=none;fontColor=#1A1A1A;" value="&lt;div&gt;OpenStack-Compute节点&lt;/div&gt;&lt;div&gt;eth1：管理网段 10.1.10.11/24&lt;/div&gt;&lt;div&gt;eth2：浮动IP网段 10.1.20.0/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="32.8" x="360" y="310" as="geometry" />
+          <mxGeometry height="80" width="32.8" x="360" y="350" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-48" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#5D7F99;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;labelBackgroundColor=none;fontColor=#1A1A1A;" value="&lt;div&gt;OpenStack-Compute节点&lt;/div&gt;&lt;div&gt;eth1：管理网段 10.1.10.12/24&lt;/div&gt;&lt;div&gt;eth2：浮动IP网段 10.1.20.0/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="32.8" x="560" y="310" as="geometry" />
+          <mxGeometry height="80" width="32.8" x="560" y="350" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-51" edge="1" parent="1" source="5aikNTGSVbQ0lq5X6MTc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="5aikNTGSVbQ0lq5X6MTc-43">
           <mxGeometry relative="1" as="geometry" />
@@ -41,13 +41,13 @@
           <mxGeometry height="50" width="50" x="351.4" y="130" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-57" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#5D7F99;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;labelBackgroundColor=none;fontColor=#1A1A1A;" value="&lt;div&gt;OpenStack-Controller节点&lt;/div&gt;&lt;div&gt;eth1：管理网段 10.1.10.10/24&lt;/div&gt;&lt;div&gt;eth2：浮动IP网段 10.1.20.0/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="32.8" x="790" y="310" as="geometry" />
+          <mxGeometry height="80" width="32.8" x="790" y="350" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-58" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#5D7F99;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;labelBackgroundColor=none;fontColor=#1A1A1A;" value="&lt;div&gt;OpenStack-Compute节点&lt;/div&gt;&lt;div&gt;eth1：管理网段 10.1.10.11/24&lt;/div&gt;&lt;div&gt;eth2：浮动IP网段 10.1.20.0/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="32.8" x="990" y="310" as="geometry" />
+          <mxGeometry height="80" width="32.8" x="990" y="350" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-59" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#5D7F99;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;labelBackgroundColor=none;fontColor=#1A1A1A;" value="&lt;div&gt;OpenStack-Compute节点&lt;/div&gt;&lt;div&gt;eth1：管理网段 10.1.10.12/24&lt;/div&gt;&lt;div&gt;eth2：浮动IP网段 10.1.20.0/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="32.8" x="1190" y="310" as="geometry" />
+          <mxGeometry height="80" width="32.8" x="1190" y="350" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-60" edge="1" parent="1" source="5aikNTGSVbQ0lq5X6MTc-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="5aikNTGSVbQ0lq5X6MTc-57">
           <mxGeometry relative="1" as="geometry" />

@@ -27,7 +27,7 @@
         <mxCell id="4Shzc62h_MbYj6JmCuAw-27" edge="1" parent="1" source="4Shzc62h_MbYj6JmCuAw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" target="4Shzc62h_MbYj6JmCuAw-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Shzc62h_MbYj6JmCuAw-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Horizion/Skyline/OpenStack_Client_tool" vertex="1">
+        <mxCell id="4Shzc62h_MbYj6JmCuAw-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Horizion/Skyline/OpenStack_Client_tool" vertex="1">
           <mxGeometry height="60" width="235" x="-70" y="410" as="geometry" />
         </mxCell>
         <mxCell id="4Shzc62h_MbYj6JmCuAw-29" edge="1" parent="1" source="4Shzc62h_MbYj6JmCuAw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fontSize=14;" target="4Shzc62h_MbYj6JmCuAw-28">

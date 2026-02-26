@@ -119,6 +119,21 @@
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;废旧PC&lt;/div&gt;&lt;div&gt;Nova节点&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="350.25" y="400" as="geometry" />
         </mxCell>
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph节点" vertex="1">
+          <mxGeometry height="30" width="60" x="430" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph节点" vertex="1">
+          <mxGeometry height="30" width="60" x="489.75" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph节点" vertex="1">
+          <mxGeometry height="30" width="60" x="550.25" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph节点" vertex="1">
+          <mxGeometry height="30" width="60" x="610.25" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph节点" vertex="1">
+          <mxGeometry height="30" width="60" x="670.25" y="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

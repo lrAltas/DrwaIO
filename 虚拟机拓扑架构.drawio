@@ -53,7 +53,7 @@
           <mxGeometry height="30" width="140" x="-10" y="450" as="geometry" />
         </mxCell>
         <mxCell id="TfS8vaEASMkrDErp0xTv-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph集群网络" vertex="1">
-          <mxGeometry height="30" width="80" x="410" y="400" as="geometry" />
+          <mxGeometry height="30" width="80" x="460" y="400" as="geometry" />
         </mxCell>
         <mxCell id="TfS8vaEASMkrDErp0xTv-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="管理网络" vertex="1">
           <mxGeometry height="30" width="60" x="240" y="260" as="geometry" />
@@ -64,8 +64,8 @@
         <mxCell id="TfS8vaEASMkrDErp0xTv-31" edge="1" parent="1" source="TfS8vaEASMkrDErp0xTv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" target="TfS8vaEASMkrDErp0xTv-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="225" />
-              <mxPoint x="400" y="631" />
+              <mxPoint x="450" y="225" />
+              <mxPoint x="450" y="631" />
             </Array>
           </mxGeometry>
         </mxCell>

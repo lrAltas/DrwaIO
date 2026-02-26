@@ -78,7 +78,7 @@
             <mxPoint x="-2" y="-56" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5aikNTGSVbQ0lq5X6MTc-66" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#5D7F99;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.switch;labelBackgroundColor=none;fontColor=#1A1A1A;" value="&lt;div&gt;&lt;div&gt;OpenStack侧&lt;/div&gt;&lt;/div&gt;&lt;div&gt;企业二层/三层可配置交换机&lt;/div&gt;" vertex="1">
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-66" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#5D7F99;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.switch;labelBackgroundColor=none;fontColor=#1A1A1A;" value="&lt;div&gt;&lt;div&gt;Ceph/存储侧&lt;/div&gt;&lt;/div&gt;&lt;div&gt;企业二层/三层可配置交换机&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="50" x="981.4" y="130" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-68" edge="1" parent="1" source="5aikNTGSVbQ0lq5X6MTc-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="5aikNTGSVbQ0lq5X6MTc-49">

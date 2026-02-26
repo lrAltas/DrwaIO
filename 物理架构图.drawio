@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#cdeb8b;opacity=50;" value="" vertex="1">
+          <mxGeometry height="220" width="420" x="-380" y="330" as="geometry" />
+        </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=14;opacity=50;" value="" vertex="1">
           <mxGeometry height="160" width="180" x="610" y="-140" as="geometry" />
         </mxCell>
@@ -170,6 +173,9 @@
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-124" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#5D7F99;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;labelBackgroundColor=none;fontColor=#1A1A1A;fontSize=14;" value="&lt;div&gt;Ansible_Controller节点&lt;/div&gt;&lt;div&gt;eth1：管理网段 10.1.10.0/24&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="32.8" x="-280" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-130" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#1A1A1A;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;执行节点与辅助节点&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="-240" y="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

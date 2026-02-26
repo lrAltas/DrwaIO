@@ -78,7 +78,15 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="555" y="300" />
-              <mxPoint x="650" y="300" />
+              <mxPoint x="640" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-28" edge="1" parent="1" source="5aikNTGSVbQ0lq5X6MTc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5aikNTGSVbQ0lq5X6MTc-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="555" y="300" />
+              <mxPoint x="700" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -86,10 +94,16 @@
           <mxGeometry height="50" width="50" x="530" y="210" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-23" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;" value="" vertex="1">
-          <mxGeometry height="50" width="20.5" x="580" y="340" as="geometry" />
+          <mxGeometry height="50" width="20.5" x="570" y="340" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-24" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;" value="" vertex="1">
-          <mxGeometry height="50" width="20.5" x="640" y="340" as="geometry" />
+          <mxGeometry height="50" width="20.5" x="630" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;废旧PC&lt;/div&gt;&lt;div&gt;Nova节点&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-27" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;" value="" vertex="1">
+          <mxGeometry height="50" width="20.5" x="690" y="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

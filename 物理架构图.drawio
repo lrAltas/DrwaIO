@@ -47,12 +47,12 @@
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-25" edge="1" parent="1" source="5aikNTGSVbQ0lq5X6MTc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5aikNTGSVbQ0lq5X6MTc-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="414" y="235" />
+              <mxPoint x="435" y="235" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-14" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="389" y="150" as="geometry" />
+          <mxGeometry height="50" width="50" x="410.25" y="150" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-16" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;" value="" vertex="1">
           <mxGeometry height="50" width="20.5" x="450" y="340" as="geometry" />
@@ -133,6 +133,15 @@
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph节点" vertex="1">
           <mxGeometry height="30" width="60" x="670.25" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="可配置路由器" vertex="1">
+          <mxGeometry height="30" width="90" x="390.25" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;三层/二层&lt;/div&gt;&lt;div&gt;企业可配置交换机&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="210" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;三层/二层&lt;/div&gt;&lt;div&gt;企业可配置交换机&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="505.25" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

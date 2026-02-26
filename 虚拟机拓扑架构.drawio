@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TfS8vaEASMkrDErp0xTv-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" value="" vertex="1">
+          <mxGeometry height="210" width="350" x="30" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="TfS8vaEASMkrDErp0xTv-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="255" width="350" x="30" y="155" as="geometry" />
+        </mxCell>
         <mxCell id="TfS8vaEASMkrDErp0xTv-6" edge="1" parent="1" source="TfS8vaEASMkrDErp0xTv-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TfS8vaEASMkrDErp0xTv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -13,11 +19,26 @@
         <mxCell id="TfS8vaEASMkrDErp0xTv-1" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="180" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="TfS8vaEASMkrDErp0xTv-2" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="" vertex="1">
+        <mxCell id="TfS8vaEASMkrDErp0xTv-2" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="OpenStack-Nova" vertex="1">
           <mxGeometry height="50" width="50" x="110" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="TfS8vaEASMkrDErp0xTv-3" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="" vertex="1">
+        <mxCell id="TfS8vaEASMkrDErp0xTv-3" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="OpenStack-Nova" vertex="1">
           <mxGeometry height="50" width="50" x="250" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="TfS8vaEASMkrDErp0xTv-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="OpenStack-Controller" vertex="1">
+          <mxGeometry height="30" width="120" x="145" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TfS8vaEASMkrDErp0xTv-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="OpenStack机组" vertex="1">
+          <mxGeometry height="30" width="100" x="30" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="TfS8vaEASMkrDErp0xTv-14" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="180" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="TfS8vaEASMkrDErp0xTv-15" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="130" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="TfS8vaEASMkrDErp0xTv-16" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="230" y="635" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

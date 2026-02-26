@@ -26,11 +26,10 @@
           <mxGeometry height="80" width="32.8" x="560" y="350" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-51" edge="1" parent="1" source="5aikNTGSVbQ0lq5X6MTc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;fontSize=14;" target="5aikNTGSVbQ0lq5X6MTc-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5aikNTGSVbQ0lq5X6MTc-84" connectable="0" parent="5aikNTGSVbQ0lq5X6MTc-51" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;fontSize=14;" value="Trunk：vlan10,20" vertex="1">
-          <mxGeometry relative="1" x="0.6497" y="1" as="geometry">
-            <mxPoint x="-1" y="12" as="offset" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="155" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-52" edge="1" parent="1" source="5aikNTGSVbQ0lq5X6MTc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;fontSize=14;" target="5aikNTGSVbQ0lq5X6MTc-45">
@@ -72,6 +71,13 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-114" edge="1" parent="1" source="5aikNTGSVbQ0lq5X6MTc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;fontColor=#1A1A1A;" target="5aikNTGSVbQ0lq5X6MTc-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="155" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -135,7 +141,7 @@
           <mxGeometry height="30" width="140" x="350" y="270" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#1A1A1A;" value="&lt;div&gt;access&lt;/div&gt;&lt;div&gt;vlan10&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="71.39999999999998" y="270" as="geometry" />
+          <mxGeometry height="30" width="140" x="59.99999999999998" y="270" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-113" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#1A1A1A;" value="access&lt;br&gt;vlan20" vertex="1">
           <mxGeometry height="30" width="140" x="150" y="270" as="geometry" />

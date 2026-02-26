@@ -26,7 +26,7 @@
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-82" connectable="0" parent="5aikNTGSVbQ0lq5X6MTc-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" value="Trunk：Vlan10,20" vertex="1">
           <mxGeometry relative="1" x="0.1877" y="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-53" edge="1" parent="1" source="5aikNTGSVbQ0lq5X6MTc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="5aikNTGSVbQ0lq5X6MTc-48">

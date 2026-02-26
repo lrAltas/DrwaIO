@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.5.3">
   <diagram name="第 1 页" id="kAyTVM4fHrG0kgqxVdUQ">
-    <mxGraphModel dx="991" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1818" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,11 +49,8 @@
         <mxCell id="TfS8vaEASMkrDErp0xTv-20" edge="1" parent="1" source="TfS8vaEASMkrDErp0xTv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.699;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" target="TfS8vaEASMkrDErp0xTv-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TfS8vaEASMkrDErp0xTv-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph集群网络" vertex="1">
-          <mxGeometry height="30" width="80" x="50" y="450" as="geometry" />
-        </mxCell>
-        <mxCell id="TfS8vaEASMkrDErp0xTv-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph集群网络" vertex="1">
-          <mxGeometry height="30" width="80" x="280" y="450" as="geometry" />
+        <mxCell id="TfS8vaEASMkrDErp0xTv-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Ceph集群网络&lt;/div&gt;&lt;div&gt;与Controller管理网络一同&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="-10" y="450" as="geometry" />
         </mxCell>
         <mxCell id="TfS8vaEASMkrDErp0xTv-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph集群网络" vertex="1">
           <mxGeometry height="30" width="80" x="410" y="400" as="geometry" />
@@ -71,6 +68,9 @@
               <mxPoint x="400" y="631" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TfS8vaEASMkrDErp0xTv-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Ceph集群网络&lt;/div&gt;&lt;div&gt;与Controller管理网络一同&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="280" y="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

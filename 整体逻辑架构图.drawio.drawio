@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.5.4">
   <diagram name="第 1 页" id="RUwex7RHf2b96bHJp0q5">
-    <mxGraphModel>
+    <mxGraphModel dx="991" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4Shzc62h_MbYj6JmCuAw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" value="" vertex="1">
+          <mxGeometry height="200" width="600" x="140" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4Shzc62h_MbYj6JmCuAw-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Keystone" vertex="1">
+          <mxGeometry height="40" width="120" x="380" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4Shzc62h_MbYj6JmCuAw-3" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.user_group;" value="用户" vertex="1">
+          <mxGeometry height="50" width="35.5" x="422.25" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="4Shzc62h_MbYj6JmCuAw-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Horizion/OpenStack Cli tool" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -110,6 +110,15 @@
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-27" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;" value="" vertex="1">
           <mxGeometry height="50" width="20.5" x="690" y="340" as="geometry" />
         </mxCell>
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;废旧PC&lt;/div&gt;&lt;div&gt;Nova节点&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;废旧PC&lt;/div&gt;&lt;div&gt;Nova节点&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="290.25" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;废旧PC&lt;/div&gt;&lt;div&gt;Nova节点&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="350.25" y="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

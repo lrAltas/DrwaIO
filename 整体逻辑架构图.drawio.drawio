@@ -11,10 +11,10 @@
           <mxGeometry height="40" width="120" x="380" y="210" as="geometry" />
         </mxCell>
         <mxCell id="4Shzc62h_MbYj6JmCuAw-3" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.user_group;" value="用户" vertex="1">
-          <mxGeometry height="50" width="35.5" x="422.25" y="-10" as="geometry" />
+          <mxGeometry height="50" width="35.5" x="422.25" y="-30" as="geometry" />
         </mxCell>
         <mxCell id="4Shzc62h_MbYj6JmCuAw-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Horizion/Skyline/OpenStack_Client_tool" vertex="1">
-          <mxGeometry height="60" width="170" x="355" y="90" as="geometry" />
+          <mxGeometry height="60" width="235" x="322.5" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

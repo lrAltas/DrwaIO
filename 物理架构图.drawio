@@ -75,7 +75,7 @@
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-72" connectable="0" parent="5aikNTGSVbQ0lq5X6MTc-68" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;fontSize=14;" value="Trunk：Vlan10,20" vertex="1">
           <mxGeometry relative="1" x="-0.2203" y="-1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="43" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-67" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#5D7F99;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;labelBackgroundColor=none;fontColor=#1A1A1A;fontSize=14;" value="" vertex="1">

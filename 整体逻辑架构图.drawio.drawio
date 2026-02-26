@@ -14,7 +14,7 @@
           <mxGeometry height="50" width="35.5" x="422.25" y="-10" as="geometry" />
         </mxCell>
         <mxCell id="4Shzc62h_MbYj6JmCuAw-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Horizion/OpenStack Cli tool" vertex="1">
-          <mxGeometry height="60" width="120" x="380" y="90" as="geometry" />
+          <mxGeometry height="60" width="170" x="355" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

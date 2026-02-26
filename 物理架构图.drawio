@@ -18,7 +18,7 @@
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-84" connectable="0" parent="5aikNTGSVbQ0lq5X6MTc-51" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" value="Trunk：vlan10,20" vertex="1">
           <mxGeometry relative="1" x="0.6497" y="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-45" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-52" edge="1" parent="1" source="5aikNTGSVbQ0lq5X6MTc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="5aikNTGSVbQ0lq5X6MTc-45">
@@ -26,7 +26,7 @@
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-82" connectable="0" parent="5aikNTGSVbQ0lq5X6MTc-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" value="Trunk：Vlan10,20" vertex="1">
           <mxGeometry relative="1" x="0.1877" y="1" as="geometry">
-            <mxPoint x="-1" y="-7" as="offset" />
+            <mxPoint x="-1" y="-41" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-53" edge="1" parent="1" source="5aikNTGSVbQ0lq5X6MTc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="5aikNTGSVbQ0lq5X6MTc-48">
@@ -34,7 +34,7 @@
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-83" connectable="0" parent="5aikNTGSVbQ0lq5X6MTc-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" value="Trunk：Vlan10,20" vertex="1">
           <mxGeometry relative="1" x="0.6497" y="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-45" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-49" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#5D7F99;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.switch;labelBackgroundColor=none;fontColor=#1A1A1A;" value="&lt;div&gt;&lt;div&gt;OpenStack侧&lt;/div&gt;&lt;/div&gt;&lt;div&gt;企业二层/三层可配置交换机&lt;/div&gt;" vertex="1">

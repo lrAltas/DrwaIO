@@ -5,19 +5,31 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="750" width="980" x="-20" y="90" as="geometry" />
+          <mxGeometry height="750" width="1380" x="-420" y="90" as="geometry" />
         </mxCell>
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="620" width="850" x="80" y="240" as="geometry" />
+          <mxGeometry height="620" width="1310" x="-370" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Co4sc7jq10JdcSw8Oi2H-8" edge="1" parent="1" source="Co4sc7jq10JdcSw8Oi2H-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;curved=1;" target="Co4sc7jq10JdcSw8Oi2H-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Co4sc7jq10JdcSw8Oi2H-9" edge="1" parent="1" source="Co4sc7jq10JdcSw8Oi2H-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="Co4sc7jq10JdcSw8Oi2H-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-2" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffcccc;strokeColor=#36393d;" value="&lt;div&gt;宿主机：X99工作站&lt;/div&gt;&lt;div&gt;内存：三星DDR4 ECC 64G&lt;/div&gt;&lt;div&gt;存储：1T NVME SSD+1T SATA&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="170" x="690" y="110" as="geometry" />
+          <mxGeometry height="110" width="170" x="670" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Co4sc7jq10JdcSw8Oi2H-12" edge="1" parent="1" source="Co4sc7jq10JdcSw8Oi2H-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Co4sc7jq10JdcSw8Oi2H-11" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;虚拟NAT网卡&lt;/div&gt;&lt;div&gt;管理网络OpenStack_Controller&lt;/div&gt;&lt;div&gt;网段：10.1.10.0/24&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="170" y="290" as="geometry" />
         </mxCell>
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;虚拟NAT网卡&lt;/div&gt;&lt;div&gt;浮动IP网络&lt;/div&gt;&lt;div&gt;OpenStack_FloatingIP&lt;/div&gt;&lt;div&gt;网段：10.1.20.0/24&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="590" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Co4sc7jq10JdcSw8Oi2H-11" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;DNS_NTP_Server&lt;/div&gt;&lt;div&gt;CPU: 2vCPU&lt;/div&gt;&lt;div&gt;内存：2G&lt;/div&gt;&lt;div&gt;磁盘：50G SATA&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

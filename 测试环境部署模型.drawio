@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.5.6">
   <diagram name="第 1 页" id="PMHycGICBGtAnOkDo_4M">
-    <mxGraphModel>
+    <mxGraphModel dx="991" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Co4sc7jq10JdcSw8Oi2H-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="720" width="890" x="70" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Co4sc7jq10JdcSw8Oi2H-2" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffcccc;strokeColor=#36393d;" value="&lt;div&gt;宿主机：X99工作站&lt;/div&gt;&lt;div&gt;内存：三星DDR4 ECC 64G&lt;/div&gt;&lt;div&gt;存储：1T NVME SSD+1T SATA&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="170" x="690" y="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

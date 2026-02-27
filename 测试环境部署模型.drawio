@@ -23,10 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;虚拟NAT网卡&lt;/div&gt;&lt;div&gt;管理网络OpenStack_Controller&lt;/div&gt;&lt;div&gt;网段：10.1.10.0/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="160" x="-428" y="360" as="geometry" />
+          <mxGeometry height="60" width="160" x="860" y="290" as="geometry" />
         </mxCell>
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;虚拟NAT网卡&lt;/div&gt;&lt;div&gt;浮动IP网络&lt;/div&gt;&lt;div&gt;OpenStack_FloatingIP&lt;/div&gt;&lt;div&gt;网段：10.1.20.0/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="160" x="465" y="360" as="geometry" />
+          <mxGeometry height="60" width="160" x="-530" y="330" as="geometry" />
         </mxCell>
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-34" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=12 12;">
           <mxGeometry relative="1" as="geometry">
@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-11" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;DNS_NTP_Server&lt;/div&gt;&lt;div&gt;CPU: 2vCPU&lt;/div&gt;&lt;div&gt;内存：2G&lt;/div&gt;&lt;div&gt;磁盘：50G SATA&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="130" x="-413" y="560" as="geometry" />
+          <mxGeometry height="80" width="130" x="875" y="490" as="geometry" />
         </mxCell>
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;controller.openstack.suying&lt;/div&gt;&lt;div&gt;CPU: 8vCPU&lt;/div&gt;&lt;div&gt;内存：8G&lt;/div&gt;&lt;div&gt;虚拟磁盘：512G SATA&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="-320" y="780" as="geometry" />

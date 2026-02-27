@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3ZQRsZM3YEA-5GccLSpy-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="274.5" width="340" x="550" y="725.5" as="geometry" />
+        <mxCell id="3ZQRsZM3YEA-5GccLSpy-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" value="" vertex="1">
+          <mxGeometry height="274.5" width="270" x="560" y="681.5" as="geometry" />
         </mxCell>
         <mxCell id="3ZQRsZM3YEA-5GccLSpy-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" value="" vertex="1">
-          <mxGeometry height="280" width="214" x="270" y="700" as="geometry" />
+          <mxGeometry height="280" width="214" x="340" y="676" as="geometry" />
         </mxCell>
         <mxCell id="3ZQRsZM3YEA-5GccLSpy-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" value="" vertex="1">
           <mxGeometry height="145" width="330" x="420" y="525" as="geometry" />
@@ -41,15 +41,15 @@
             <mxPoint x="4" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZQRsZM3YEA-5GccLSpy-6" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;企业路由器&lt;/div&gt;&lt;div&gt;10.1.20.1&lt;/div&gt;" vertex="1">
+        <mxCell id="3ZQRsZM3YEA-5GccLSpy-6" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" value="&lt;div&gt;企业路由器&lt;/div&gt;&lt;div&gt;10.1.20.1&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="535" y="410" as="geometry" />
         </mxCell>
         <mxCell id="3ZQRsZM3YEA-5GccLSpy-22" edge="1" parent="1" source="3ZQRsZM3YEA-5GccLSpy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="3ZQRsZM3YEA-5GccLSpy-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ZQRsZM3YEA-5GccLSpy-23" connectable="0" parent="3ZQRsZM3YEA-5GccLSpy-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="5.管理网段" vertex="1">
+        <mxCell id="3ZQRsZM3YEA-5GccLSpy-23" connectable="0" parent="3ZQRsZM3YEA-5GccLSpy-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="5.管理网段vlan10" vertex="1">
           <mxGeometry relative="1" x="0.4303" y="32" as="geometry">
-            <mxPoint x="-19" y="20" as="offset" />
+            <mxPoint x="-19" y="-39" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZQRsZM3YEA-5GccLSpy-28" edge="1" parent="1" source="3ZQRsZM3YEA-5GccLSpy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;curved=1;" target="3ZQRsZM3YEA-5GccLSpy-27">
@@ -57,7 +57,7 @@
         </mxCell>
         <mxCell id="3ZQRsZM3YEA-5GccLSpy-29" connectable="0" parent="3ZQRsZM3YEA-5GccLSpy-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2.转发" vertex="1">
           <mxGeometry relative="1" x="-0.1447" y="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-8" y="-32" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZQRsZM3YEA-5GccLSpy-9" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;企业二层/三层可配置交换机&lt;/div&gt;&lt;div&gt;Trunk：vlan 10,20&lt;/div&gt;" vertex="1">
@@ -70,19 +70,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3ZQRsZM3YEA-5GccLSpy-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="eth1:10.1.10.11" vertex="1">
-          <mxGeometry height="50" width="120" x="317" y="750" as="geometry" />
+          <mxGeometry height="50" width="120" x="387" y="726" as="geometry" />
         </mxCell>
         <mxCell id="3ZQRsZM3YEA-5GccLSpy-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="compute01(10.1.10.11)" vertex="1">
-          <mxGeometry height="30" width="60" x="347" y="710" as="geometry" />
+          <mxGeometry height="30" width="60" x="417" y="686" as="geometry" />
         </mxCell>
         <mxCell id="3ZQRsZM3YEA-5GccLSpy-25" edge="1" parent="1" source="3ZQRsZM3YEA-5GccLSpy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3ZQRsZM3YEA-5GccLSpy-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3ZQRsZM3YEA-5GccLSpy-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OVS br-int" vertex="1">
-          <mxGeometry height="40" width="85.5" x="334.25" y="820" as="geometry" />
+          <mxGeometry height="40" width="85.5" x="404.25" y="796" as="geometry" />
         </mxCell>
         <mxCell id="3ZQRsZM3YEA-5GccLSpy-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;VM_Test&lt;/div&gt;&lt;div&gt;192.168.1.100&lt;/div&gt;&lt;div&gt;浮动IP：10.1.20.100&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="317" y="890" as="geometry" />
+          <mxGeometry height="60" width="120" x="387" y="866" as="geometry" />
         </mxCell>
         <mxCell id="3ZQRsZM3YEA-5GccLSpy-33" edge="1" parent="1" source="3ZQRsZM3YEA-5GccLSpy-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3ZQRsZM3YEA-5GccLSpy-32" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -92,22 +92,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZQRsZM3YEA-5GccLSpy-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;虚拟路由器&lt;/div&gt;&lt;div&gt;eth1：浮动IP网段&lt;/div&gt;&lt;div&gt;10.1.20.5/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="590" y="780" as="geometry" />
+        <mxCell id="3ZQRsZM3YEA-5GccLSpy-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;opacity=50;" value="&lt;div&gt;虚拟路由器&lt;/div&gt;&lt;div&gt;eth1：浮动IP网段&lt;/div&gt;&lt;div&gt;10.1.20.5/24&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="575" y="736" as="geometry" />
         </mxCell>
         <mxCell id="3ZQRsZM3YEA-5GccLSpy-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="controller节点（10.1.10.10）" vertex="1">
-          <mxGeometry height="30" width="180" x="630" y="730" as="geometry" />
+          <mxGeometry height="30" width="180" x="605" y="686" as="geometry" />
         </mxCell>
         <mxCell id="3ZQRsZM3YEA-5GccLSpy-35" edge="1" parent="1" source="3ZQRsZM3YEA-5GccLSpy-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="3ZQRsZM3YEA-5GccLSpy-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3ZQRsZM3YEA-5GccLSpy-36" connectable="0" parent="3ZQRsZM3YEA-5GccLSpy-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;4.vxlan封装&lt;/div&gt;&lt;div&gt;目的IP：10.1.10.11&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.4522" y="3" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZQRsZM3YEA-5GccLSpy-32" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;eth1:管理网段&lt;/div&gt;&lt;div&gt;10.1.10.10/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="690" y="920" as="geometry" />
+          <mxGeometry height="60" width="120" x="675" y="876" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

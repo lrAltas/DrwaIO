@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="" vertex="1">
-          <mxGeometry height="1080" width="1750" x="-640" y="30" as="geometry" />
+          <mxGeometry height="990" width="1750" x="-640" y="120" as="geometry" />
         </mxCell>
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="" vertex="1">
-          <mxGeometry height="660" width="1560" x="-540" y="230" as="geometry" />
+          <mxGeometry height="600" width="1560" x="-540" y="290" as="geometry" />
         </mxCell>
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-8" edge="1" parent="1" source="Co4sc7jq10JdcSw8Oi2H-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;curved=1;fontSize=14;" target="Co4sc7jq10JdcSw8Oi2H-5">
           <mxGeometry relative="1" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-2" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffcccc;strokeColor=#36393d;fontSize=14;" value="&lt;div&gt;宿主机：X99工作站&lt;/div&gt;&lt;div&gt;内存：三星DDR4 ECC 64G&lt;/div&gt;&lt;div&gt;存储：1T NVME SSD+1T SATA&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="170" x="540" y="40" as="geometry" />
+          <mxGeometry height="120" width="240" x="500" y="130" as="geometry" />
         </mxCell>
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-28" edge="1" parent="1" source="Co4sc7jq10JdcSw8Oi2H-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" target="Co4sc7jq10JdcSw8Oi2H-11">
           <mxGeometry relative="1" as="geometry" />
@@ -234,10 +234,10 @@
           <mxGeometry height="60" width="190" x="145" y="1030" as="geometry" />
         </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="KVM虚拟机环境" vertex="1">
-          <mxGeometry height="30" width="120" x="175" y="240" as="geometry" />
+          <mxGeometry height="30" width="120" x="175" y="300" as="geometry" />
         </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;div&gt;X99工作站&lt;/div&gt;&lt;div&gt;Ubuntu Desktop 24.05&lt;/div&gt;&lt;div&gt;Anaconda+Python3.13&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="170" x="150" y="40" as="geometry" />
+          <mxGeometry height="30" width="170" x="155" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -38,16 +38,16 @@
           <mxGeometry height="80" width="180" x="60" y="880" as="geometry" />
         </mxCell>
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;cephadm01.openstack.suying&lt;/div&gt;&lt;div&gt;CPU: 4vCPU&lt;/div&gt;&lt;div&gt;内存:4G&lt;/div&gt;&lt;div&gt;虚拟磁盘：256 sata（模拟256的 NVME SSD）+ 512G SATA&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="186" x="284" y="890" as="geometry" />
+          <mxGeometry height="100" width="186" x="250" y="870" as="geometry" />
         </mxCell>
-        <mxCell id="Co4sc7jq10JdcSw8Oi2H-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="480" y="890" as="geometry" />
-        </mxCell>
-        <mxCell id="Co4sc7jq10JdcSw8Oi2H-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="590" y="890" as="geometry" />
+        <mxCell id="Co4sc7jq10JdcSw8Oi2H-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;cephadm02.openstack.suying&lt;/div&gt;&lt;div&gt;CPU: 4vCPU&lt;/div&gt;&lt;div&gt;内存:4G&lt;/div&gt;&lt;div&gt;虚拟磁盘：256 sata（模拟256的 NVME SSD）+ 512G SATA&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="190" x="450" y="870" as="geometry" />
         </mxCell>
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-20" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="宿主机Ansible环境" vertex="1">
           <mxGeometry height="80" width="130" x="404" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="Co4sc7jq10JdcSw8Oi2H-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;cephadm03.openstack.suying&lt;/div&gt;&lt;div&gt;CPU: 4vCPU&lt;/div&gt;&lt;div&gt;内存:4G&lt;/div&gt;&lt;div&gt;虚拟磁盘：256 sata（模拟256的 NVME SSD）+ 512G SATA&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="190" x="650" y="870" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

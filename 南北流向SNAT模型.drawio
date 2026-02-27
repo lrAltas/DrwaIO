@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nKPlKEJBp1KOn2g1Y9cF-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;opacity=50;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="445" width="435" x="400" y="595" as="geometry" />
+        </mxCell>
         <mxCell id="nKPlKEJBp1KOn2g1Y9cF-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;opacity=50;fontSize=14;" value="" vertex="1">
           <mxGeometry height="225" width="190" x="200" y="595" as="geometry" />
         </mxCell>
@@ -82,9 +85,6 @@
         </mxCell>
         <mxCell id="nKPlKEJBp1KOn2g1Y9cF-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="外部网络" vertex="1">
           <mxGeometry height="30" width="70" x="200" y="595" as="geometry" />
-        </mxCell>
-        <mxCell id="nKPlKEJBp1KOn2g1Y9cF-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;opacity=50;fontSize=14;" value="" vertex="1">
-          <mxGeometry height="445" width="435" x="400" y="595" as="geometry" />
         </mxCell>
         <mxCell id="nKPlKEJBp1KOn2g1Y9cF-15" edge="1" parent="1" source="nKPlKEJBp1KOn2g1Y9cF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" target="nKPlKEJBp1KOn2g1Y9cF-14" value="">
           <mxGeometry relative="1" as="geometry" />

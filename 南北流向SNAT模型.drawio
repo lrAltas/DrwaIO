@@ -80,7 +80,7 @@
         <mxCell id="nKPlKEJBp1KOn2g1Y9cF-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;企业路由器&lt;/div&gt;&lt;div&gt;10.1.20.1&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="235" y="645" as="geometry" />
         </mxCell>
-        <mxCell id="nKPlKEJBp1KOn2g1Y9cF-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="互联网网" vertex="1">
+        <mxCell id="nKPlKEJBp1KOn2g1Y9cF-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="互联网" vertex="1">
           <mxGeometry height="60" width="120" x="235" y="740" as="geometry" />
         </mxCell>
         <mxCell id="nKPlKEJBp1KOn2g1Y9cF-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="外部网络" vertex="1">

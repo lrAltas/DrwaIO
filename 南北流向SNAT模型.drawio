@@ -77,7 +77,7 @@
         <mxCell id="nKPlKEJBp1KOn2g1Y9cF-7" edge="1" parent="1" source="nKPlKEJBp1KOn2g1Y9cF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" target="nKPlKEJBp1KOn2g1Y9cF-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nKPlKEJBp1KOn2g1Y9cF-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;div&gt;企业路由器&lt;/div&gt;&lt;div&gt;10.1.20.1&lt;/div&gt;" vertex="1">
+        <mxCell id="nKPlKEJBp1KOn2g1Y9cF-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;企业路由器&lt;/div&gt;&lt;div&gt;10.1.20.1&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="235" y="645" as="geometry" />
         </mxCell>
         <mxCell id="nKPlKEJBp1KOn2g1Y9cF-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="互联网网" vertex="1">
@@ -101,8 +101,8 @@
         <mxCell id="nKPlKEJBp1KOn2g1Y9cF-17" edge="1" parent="1" source="nKPlKEJBp1KOn2g1Y9cF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" target="nKPlKEJBp1KOn2g1Y9cF-16" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nKPlKEJBp1KOn2g1Y9cF-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;div&gt;虚拟路由器&lt;/div&gt;&lt;div&gt;内部：192.168.1.1&lt;/div&gt;&lt;div&gt;外部10.1.20.5&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="527.5" y="740" as="geometry" />
+        <mxCell id="nKPlKEJBp1KOn2g1Y9cF-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cdeb8b;strokeColor=#36393d;" value="&lt;div&gt;虚拟路由器&lt;/div&gt;&lt;div&gt;内部：192.168.1.1&lt;/div&gt;&lt;div&gt;外部10.1.20.5&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="502.5" y="740" as="geometry" />
         </mxCell>
         <mxCell id="nKPlKEJBp1KOn2g1Y9cF-19" edge="1" parent="1" source="nKPlKEJBp1KOn2g1Y9cF-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" target="nKPlKEJBp1KOn2g1Y9cF-18" value="">
           <mxGeometry relative="1" as="geometry" />

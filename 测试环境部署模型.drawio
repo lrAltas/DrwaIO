@@ -103,20 +103,50 @@
         <mxCell id="l76jbwdOnAa7UPbj4SIp-14" edge="1" parent="1" source="Co4sc7jq10JdcSw8Oi2H-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=12 12;" target="Co4sc7jq10JdcSw8Oi2H-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-46" connectable="0" parent="l76jbwdOnAa7UPbj4SIp-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="本地解析DNS/NTP" vertex="1">
+          <mxGeometry relative="1" x="0.8652" y="35" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-16" edge="1" parent="1" source="Co4sc7jq10JdcSw8Oi2H-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=12 12;" target="Co4sc7jq10JdcSw8Oi2H-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-47" connectable="0" parent="l76jbwdOnAa7UPbj4SIp-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="本地解析DNS/NTP" vertex="1">
+          <mxGeometry relative="1" x="0.827" y="40" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-17" edge="1" parent="1" source="Co4sc7jq10JdcSw8Oi2H-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=12 12;" target="Co4sc7jq10JdcSw8Oi2H-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-48" connectable="0" parent="l76jbwdOnAa7UPbj4SIp-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="本地解析DNS/NTP" vertex="1">
+          <mxGeometry relative="1" x="0.8255" y="20" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-18" edge="1" parent="1" source="Co4sc7jq10JdcSw8Oi2H-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=12 12;" target="Co4sc7jq10JdcSw8Oi2H-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-49" connectable="0" parent="l76jbwdOnAa7UPbj4SIp-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="本地解析DNS/NTP" vertex="1">
+          <mxGeometry relative="1" x="0.796" y="15" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-19" edge="1" parent="1" source="Co4sc7jq10JdcSw8Oi2H-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=12 12;" target="Co4sc7jq10JdcSw8Oi2H-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-50" connectable="0" parent="l76jbwdOnAa7UPbj4SIp-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="本地解析DNS/NTP" vertex="1">
+          <mxGeometry relative="1" x="0.7167" y="11" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-20" edge="1" parent="1" source="Co4sc7jq10JdcSw8Oi2H-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=12 12;" target="Co4sc7jq10JdcSw8Oi2H-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-51" connectable="0" parent="l76jbwdOnAa7UPbj4SIp-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="本地解析DNS/NTP" vertex="1">
+          <mxGeometry relative="1" x="0.4967" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-11" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffff88;strokeColor=#36393d;" value="&lt;div&gt;DNS_NTP_Server&lt;/div&gt;&lt;div&gt;CPU: 2vCPU&lt;/div&gt;&lt;div&gt;内存：2G&lt;/div&gt;&lt;div&gt;磁盘：50G SATA&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="130" x="875" y="490" as="geometry" />
@@ -142,20 +172,50 @@
         <mxCell id="l76jbwdOnAa7UPbj4SIp-29" edge="1" parent="1" source="l76jbwdOnAa7UPbj4SIp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 4 1 4;curved=1;" target="Co4sc7jq10JdcSw8Oi2H-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-53" connectable="0" parent="l76jbwdOnAa7UPbj4SIp-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ansible SSH 自动化部署" vertex="1">
+          <mxGeometry relative="1" x="0.4173" y="-6" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-30" edge="1" parent="1" source="l76jbwdOnAa7UPbj4SIp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 4 1 4;curved=1;" target="Co4sc7jq10JdcSw8Oi2H-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-54" connectable="0" parent="l76jbwdOnAa7UPbj4SIp-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ansible SSH 自动化部署" vertex="1">
+          <mxGeometry relative="1" x="0.4703" y="-24" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-31" edge="1" parent="1" source="l76jbwdOnAa7UPbj4SIp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 4 1 4;curved=1;" target="Co4sc7jq10JdcSw8Oi2H-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-55" connectable="0" parent="l76jbwdOnAa7UPbj4SIp-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ansible SSH 自动化部署" vertex="1">
+          <mxGeometry relative="1" x="0.581" y="-7" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-32" edge="1" parent="1" source="l76jbwdOnAa7UPbj4SIp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 4 1 4;curved=1;" target="Co4sc7jq10JdcSw8Oi2H-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-56" connectable="0" parent="l76jbwdOnAa7UPbj4SIp-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ansible SSH 自动化部署" vertex="1">
+          <mxGeometry relative="1" x="0.6759" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-33" edge="1" parent="1" source="l76jbwdOnAa7UPbj4SIp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 4 1 4;curved=1;" target="Co4sc7jq10JdcSw8Oi2H-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-57" connectable="0" parent="l76jbwdOnAa7UPbj4SIp-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ansible SSH 自动化部署" vertex="1">
+          <mxGeometry relative="1" x="0.8152" y="19" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-34" edge="1" parent="1" source="l76jbwdOnAa7UPbj4SIp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 4 1 4;curved=1;" target="Co4sc7jq10JdcSw8Oi2H-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-58" connectable="0" parent="l76jbwdOnAa7UPbj4SIp-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ansible SSH 自动化部署" vertex="1">
+          <mxGeometry relative="1" x="0.5501" y="15" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-35" edge="1" parent="1" source="l76jbwdOnAa7UPbj4SIp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 4 1 4;curved=1;" target="Co4sc7jq10JdcSw8Oi2H-11">
           <mxGeometry relative="1" as="geometry">
@@ -163,6 +223,11 @@
               <mxPoint x="235" y="980" />
               <mxPoint x="940" y="980" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-59" connectable="0" parent="l76jbwdOnAa7UPbj4SIp-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ansible SSH 自动化部署" vertex="1">
+          <mxGeometry relative="1" x="0.7734" y="9" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-28" parent="1" style="whiteSpace=wrap;html=1;" value="宿主机Ansible环境" vertex="1">

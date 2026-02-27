@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.5.6">
   <diagram name="第 1 页" id="PMHycGICBGtAnOkDo_4M">
-    <mxGraphModel dx="2318" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1391" dy="289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,7 +220,7 @@
         <mxCell id="l76jbwdOnAa7UPbj4SIp-35" edge="1" parent="1" source="l76jbwdOnAa7UPbj4SIp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 4 1 4;curved=1;fontSize=14;" target="Co4sc7jq10JdcSw8Oi2H-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="235" y="980" />
+              <mxPoint x="240" y="980" />
               <mxPoint x="940" y="980" />
             </Array>
           </mxGeometry>
@@ -231,7 +231,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-28" parent="1" style="whiteSpace=wrap;html=1;fontSize=14;" value="宿主机Ansible环境" vertex="1">
-          <mxGeometry height="60" width="120" x="175" y="1030" as="geometry" />
+          <mxGeometry height="60" width="190" x="145" y="1030" as="geometry" />
         </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="KVM虚拟机环境" vertex="1">
           <mxGeometry height="30" width="120" x="175" y="240" as="geometry" />

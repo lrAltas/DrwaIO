@@ -94,8 +94,34 @@
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="&lt;div&gt;cephadm03.openstack.suying&lt;/div&gt;&lt;div&gt;CPU: 4vCPU&lt;/div&gt;&lt;div&gt;内存:4G&lt;/div&gt;&lt;div&gt;虚拟磁盘：256 sata（模拟256的 NVME SSD）+ 512G SATA&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="190" x="650" y="770" as="geometry" />
         </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-29" edge="1" parent="1" source="l76jbwdOnAa7UPbj4SIp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 4 1 4;curved=1;" target="Co4sc7jq10JdcSw8Oi2H-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-30" edge="1" parent="1" source="l76jbwdOnAa7UPbj4SIp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 4 1 4;curved=1;" target="Co4sc7jq10JdcSw8Oi2H-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-31" edge="1" parent="1" source="l76jbwdOnAa7UPbj4SIp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 4 1 4;curved=1;" target="Co4sc7jq10JdcSw8Oi2H-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-32" edge="1" parent="1" source="l76jbwdOnAa7UPbj4SIp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 4 1 4;curved=1;" target="Co4sc7jq10JdcSw8Oi2H-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-33" edge="1" parent="1" source="l76jbwdOnAa7UPbj4SIp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 4 1 4;curved=1;" target="Co4sc7jq10JdcSw8Oi2H-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-34" edge="1" parent="1" source="l76jbwdOnAa7UPbj4SIp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 4 1 4;curved=1;" target="Co4sc7jq10JdcSw8Oi2H-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-35" edge="1" parent="1" source="l76jbwdOnAa7UPbj4SIp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 4 1 4;curved=1;" target="Co4sc7jq10JdcSw8Oi2H-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="980" />
+              <mxPoint x="940" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-28" parent="1" style="whiteSpace=wrap;html=1;" value="宿主机Ansible环境" vertex="1">
-          <mxGeometry height="60" width="120" x="175" y="1020" as="geometry" />
+          <mxGeometry height="60" width="120" x="175" y="1030" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

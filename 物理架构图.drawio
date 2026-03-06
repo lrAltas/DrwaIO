@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;strokeWidth=2;fontSize=14;" value="" vertex="1">
-          <mxGeometry height="220" width="420" x="-380" y="330" as="geometry" />
+          <mxGeometry height="170" width="280" x="-240" y="330" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;opacity=50;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="180" width="220" x="590" y="-140" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-89" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;fontSize=14;strokeColor=default;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="180" width="1530" x="-320" y="80" as="geometry" />
+          <mxGeometry height="180" width="1450" x="-240" y="80" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;fontSize=14;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="200" width="508.6" x="701.4" y="330" as="geometry" />
@@ -166,16 +166,16 @@
           <mxGeometry height="30" width="140" x="150" y="210" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="&lt;div&gt;&lt;font&gt;管理网段：10.1.10.0/24 GW：10.1.10.1 vlan10&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;浮动IP网段：10.1.20.0/24&amp;nbsp; GW：10.1.20.1 vlan20&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;DNS_Server: 10.1.10.2/24&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;NTR_Server：10.1.10.2/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="400" x="150" y="-130" as="geometry" />
+          <mxGeometry height="120" width="400" x="170" y="-140" as="geometry" />
         </mxCell>
-        <mxCell id="5aikNTGSVbQ0lq5X6MTc-123" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#5D7F99;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;labelBackgroundColor=none;fontColor=#1A1A1A;fontSize=14;" value="&lt;div&gt;DNS_NTP节点&lt;/div&gt;&lt;div&gt;eth1：管理网段 10.1.10.2/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="32.8" x="-90" y="350" as="geometry" />
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-123" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#5D7F99;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;labelBackgroundColor=none;fontColor=#1A1A1A;fontSize=14;" value="&lt;div&gt;DNS_NTP节点&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="32.8" x="-50" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="5aikNTGSVbQ0lq5X6MTc-124" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#5D7F99;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;labelBackgroundColor=none;fontColor=#1A1A1A;fontSize=14;" value="&lt;div&gt;Ansible_Controller节点&lt;/div&gt;&lt;div&gt;eth1：管理网段 10.1.10.0/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="32.8" x="-280" y="350" as="geometry" />
+        <mxCell id="5aikNTGSVbQ0lq5X6MTc-124" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#5D7F99;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;labelBackgroundColor=none;fontColor=#1A1A1A;fontSize=14;" value="&lt;div&gt;Ansible_Controller节点&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="32.8" x="-182.8" y="350" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-130" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#1A1A1A;fontSize=14;" value="&lt;font&gt;执行节点与辅助节点&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="-240" y="500" as="geometry" />
+          <mxGeometry height="30" width="140" x="-170" y="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

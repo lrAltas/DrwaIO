@@ -24,7 +24,7 @@
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-13" edge="1" parent="1" source="tu8p57BgmBtueYVtUOrZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="230" as="targetPoint" />
+            <mxPoint x="440" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="&lt;div&gt;核心服务&lt;/div&gt;&lt;div&gt;Keystone&lt;/div&gt;&lt;div&gt;Glance&lt;/div&gt;&lt;div&gt;Nova（API，Sch，Con）&lt;/div&gt;&lt;div&gt;Placement&lt;/div&gt;&lt;div&gt;Neutron&lt;/div&gt;&lt;div&gt;Cinder&lt;/div&gt;&lt;div&gt;Horzion&lt;/div&gt;" vertex="1">
@@ -36,7 +36,7 @@
               <mxPoint x="625" y="340" />
               <mxPoint x="440" y="340" />
             </Array>
-            <mxPoint x="440" y="230" as="targetPoint" />
+            <mxPoint x="440" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-11" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="MariaDB,RabbitMQ" vertex="1">

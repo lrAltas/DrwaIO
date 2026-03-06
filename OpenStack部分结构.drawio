@@ -109,7 +109,7 @@
           <mxGeometry height="40" width="110" x="1580" y="489" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="&lt;div&gt;OpenStack-Compute02&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="195" x="1417.5" y="690" as="geometry" />
+          <mxGeometry height="30" width="195" x="1387.5" y="690" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Neutron Open vSwitch Agent&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="180" x="1370" y="548" as="geometry" />

@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.5.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.1">
   <diagram name="第 1 页" id="7hrDuqtUUKTqaTOgeN1p">
-    <mxGraphModel dx="991" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1416" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XAwyrLKgoTKUHbUmzOnz-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;fontSize=14;" value="" vertex="1">
+        <mxCell id="XAwyrLKgoTKUHbUmzOnz-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="270" width="230" x="730" y="750" as="geometry" />
         </mxCell>
-        <mxCell id="XAwyrLKgoTKUHbUmzOnz-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;fontSize=14;" value="" vertex="1">
+        <mxCell id="XAwyrLKgoTKUHbUmzOnz-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="100" width="230" x="730" y="608.5" as="geometry" />
         </mxCell>
-        <mxCell id="XAwyrLKgoTKUHbUmzOnz-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="" vertex="1">
+        <mxCell id="XAwyrLKgoTKUHbUmzOnz-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="280" width="230" x="730" y="290" as="geometry" />
         </mxCell>
         <mxCell id="XAwyrLKgoTKUHbUmzOnz-6" edge="1" parent="1" source="XAwyrLKgoTKUHbUmzOnz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" target="XAwyrLKgoTKUHbUmzOnz-26" value="">
@@ -23,7 +23,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAwyrLKgoTKUHbUmzOnz-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" value="&lt;div&gt;VM_Test_01&lt;/div&gt;&lt;div&gt;192.168.1.100&lt;/div&gt;" vertex="1">
+        <mxCell id="XAwyrLKgoTKUHbUmzOnz-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;div&gt;VM_Test_01&lt;/div&gt;&lt;div&gt;192.168.1.100&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="785" y="320" as="geometry" />
         </mxCell>
         <mxCell id="XAwyrLKgoTKUHbUmzOnz-10" edge="1" parent="1" source="XAwyrLKgoTKUHbUmzOnz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" target="XAwyrLKgoTKUHbUmzOnz-9" value="">
@@ -58,7 +58,7 @@
             <mxPoint x="-5" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAwyrLKgoTKUHbUmzOnz-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" value="&lt;div&gt;企业二层/三层可配置交换机&lt;/div&gt;&lt;div&gt;Trunk:vlan10,20&lt;/div&gt;" vertex="1">
+        <mxCell id="XAwyrLKgoTKUHbUmzOnz-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;div&gt;企业二层/三层可配置交换机&lt;/div&gt;&lt;div&gt;Trunk:vlan10,20&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="165" x="762.5" y="638.5" as="geometry" />
         </mxCell>
         <mxCell id="XAwyrLKgoTKUHbUmzOnz-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="核心交换机" vertex="1">
@@ -87,7 +87,7 @@
         <mxCell id="XAwyrLKgoTKUHbUmzOnz-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="OVS br-int/br-tun" vertex="1">
           <mxGeometry height="45" width="120" x="785" y="855" as="geometry" />
         </mxCell>
-        <mxCell id="XAwyrLKgoTKUHbUmzOnz-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" value="VM_Test_02" vertex="1">
+        <mxCell id="XAwyrLKgoTKUHbUmzOnz-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="VM_Test_02" vertex="1">
           <mxGeometry height="60" width="120" x="785" y="950" as="geometry" />
         </mxCell>
       </root>

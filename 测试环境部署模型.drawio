@@ -232,8 +232,8 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l76jbwdOnAa7UPbj4SIp-28" parent="1" style="whiteSpace=wrap;html=1;fontSize=14;" value="宿主机Ansible环境" vertex="1">
-          <mxGeometry height="60" width="190" x="145" y="1030" as="geometry" />
+        <mxCell id="l76jbwdOnAa7UPbj4SIp-28" parent="1" style="whiteSpace=wrap;html=1;fontSize=14;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;宿主机Ansible环境&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="205" x="132.5" y="1010" as="geometry" />
         </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="KVM虚拟机环境" vertex="1">
           <mxGeometry height="30" width="195" x="137.5" y="300" as="geometry" />

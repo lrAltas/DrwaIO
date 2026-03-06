@@ -22,8 +22,22 @@
         <mxCell id="tu8p57BgmBtueYVtUOrZ-9" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" value="" vertex="1">
           <mxGeometry height="98" width="89" x="220" y="450" as="geometry" />
         </mxCell>
+        <mxCell id="tu8p57BgmBtueYVtUOrZ-13" edge="1" parent="1" source="tu8p57BgmBtueYVtUOrZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="&lt;div&gt;核心服务&lt;/div&gt;&lt;div&gt;Keystone&lt;/div&gt;&lt;div&gt;Glance&lt;/div&gt;&lt;div&gt;Nova（API，Sch，Con）&lt;/div&gt;&lt;div&gt;Placement&lt;/div&gt;&lt;div&gt;Neutron&lt;/div&gt;&lt;div&gt;Cinder&lt;/div&gt;&lt;div&gt;Horzion&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="210" x="320" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="tu8p57BgmBtueYVtUOrZ-14" edge="1" parent="1" source="tu8p57BgmBtueYVtUOrZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="340" />
+              <mxPoint x="440" y="340" />
+            </Array>
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-11" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="MariaDB,RabbitMQ" vertex="1">
           <mxGeometry height="60" width="170" x="540" y="460" as="geometry" />

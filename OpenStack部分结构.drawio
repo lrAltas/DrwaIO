@@ -26,7 +26,7 @@
           <mxGeometry height="200" width="292" x="308" y="484" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-11" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="&lt;div&gt;MariaDB&lt;/div&gt;&lt;div&gt;RabbitMQ&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="170" x="590" y="498" as="geometry" />
+          <mxGeometry height="60" width="110" x="610" y="484" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="&lt;div&gt;OpenStack-Controller&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="195" x="367.5" y="730" as="geometry" />

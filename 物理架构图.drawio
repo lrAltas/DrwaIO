@@ -166,7 +166,7 @@
           <mxGeometry height="30" width="140" x="150" y="225" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="&lt;div&gt;&lt;font&gt;管理网段：10.1.10.0/24 GW：10.1.10.1 vlan10&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;浮动IP网段：10.1.20.0/24&amp;nbsp; GW：10.1.20.1 vlan20&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;DNS_Server: 10.1.10.2/24&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;NTR_Server：10.1.10.2/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="400" x="170" y="-140" as="geometry" />
+          <mxGeometry height="120" width="400" x="170" y="-55" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-123" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#5D7F99;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;labelBackgroundColor=none;fontColor=#1A1A1A;fontSize=14;" value="&lt;div&gt;DNS_NTP节点&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="32.8" x="-50" y="350" as="geometry" />

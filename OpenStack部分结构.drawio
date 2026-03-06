@@ -58,7 +58,7 @@
           <mxGeometry height="40" width="150" x="870" y="489" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-21" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="OpenvSwitch" vertex="1">
-          <mxGeometry height="40" width="110" x="1040" y="460" as="geometry" />
+          <mxGeometry height="40" width="110" x="1080" y="489" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="&lt;div&gt;OpenStack-Compute01&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="195" x="917.5" y="690" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry height="60" width="180" x="870" y="548" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-32" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="KVM虚拟化" vertex="1">
-          <mxGeometry height="40" width="110" x="1080" y="535" as="geometry" />
+          <mxGeometry height="40" width="110" x="1080" y="565" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

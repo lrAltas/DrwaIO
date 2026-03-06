@@ -19,9 +19,6 @@
         <mxCell id="MYNrzY4uk0nymoJmlu4w-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="&lt;div&gt;核心服务&lt;/div&gt;&lt;div&gt;Cephadm工具（podman容器）&lt;/div&gt;&lt;div&gt;Manager(MGR)&lt;/div&gt;&lt;div&gt;Monitor(Mon)&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="292" x="388" y="594" as="geometry" />
         </mxCell>
-        <mxCell id="MYNrzY4uk0nymoJmlu4w-6" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="&lt;div&gt;MariaDB&lt;/div&gt;&lt;div&gt;RabbitMQ&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="110" x="690" y="594" as="geometry" />
-        </mxCell>
         <mxCell id="MYNrzY4uk0nymoJmlu4w-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="&lt;div&gt;Cephadm_BootStrap&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="195" x="447.5" y="840" as="geometry" />
         </mxCell>

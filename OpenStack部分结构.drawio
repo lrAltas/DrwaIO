@@ -55,7 +55,7 @@
           <mxGeometry height="98" width="89" x="770" y="450" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="&lt;div&gt;Nova Compute&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="150" x="870" y="460" as="geometry" />
+          <mxGeometry height="40" width="150" x="870" y="489" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-21" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="OpenvSwitch" vertex="1">
           <mxGeometry height="40" width="110" x="1040" y="460" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry height="40" width="80" x="500" y="420" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Neutron Open vSwitch Agent&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="180" x="870" y="525" as="geometry" />
+          <mxGeometry height="60" width="180" x="870" y="548" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-32" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="KVM虚拟化" vertex="1">
           <mxGeometry height="40" width="110" x="1080" y="535" as="geometry" />

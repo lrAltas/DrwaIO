@@ -165,7 +165,7 @@
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=17;" value="&lt;div&gt;OpenStack-Compute02&lt;/div&gt;&lt;font&gt;计算节点&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="200" x="80" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="Co4sc7jq10JdcSw8Oi2H-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=17;" value="&lt;div&gt;Cephadm-BootStrap&lt;/div&gt;存储节点" vertex="1">
+        <mxCell id="Co4sc7jq10JdcSw8Oi2H-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=17;" value="&lt;div&gt;Cephadm-BootStrap&lt;/div&gt;&lt;div&gt;存储节点&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="186" x="300" y="760" as="geometry" />
         </mxCell>
         <mxCell id="Co4sc7jq10JdcSw8Oi2H-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=17;" value="&lt;div&gt;Cephadm_OSD01&lt;/div&gt;存储节点" vertex="1">
@@ -241,8 +241,8 @@
         <mxCell id="l76jbwdOnAa7UPbj4SIp-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;div&gt;&lt;font&gt;X99工作站&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;Ubuntu Desktop24.04.3 LTS&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;Anaconda+Python3.13&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="335" x="67.5" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="Co4sc7jq10JdcSw8Oi2H-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=14;" value="&lt;div&gt;cephadm03.openstack.suying&lt;/div&gt;存储节点" vertex="1">
-          <mxGeometry height="100" width="190" x="710" y="770" as="geometry" />
+        <mxCell id="Co4sc7jq10JdcSw8Oi2H-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=17;" value="&lt;div&gt;Cephadm-OSD02&lt;/div&gt;存储节点" vertex="1">
+          <mxGeometry height="100" width="190" x="710" y="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

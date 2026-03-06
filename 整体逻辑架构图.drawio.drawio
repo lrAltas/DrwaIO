@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.5.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.1">
   <diagram name="第 1 页" id="RUwex7RHf2b96bHJp0q5">
-    <mxGraphModel dx="2123" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1870" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4Shzc62h_MbYj6JmCuAw-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;fontSize=14;" value="" vertex="1">
+        <mxCell id="4Shzc62h_MbYj6JmCuAw-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="275" width="180" x="1130" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="4Shzc62h_MbYj6JmCuAw-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;fontSize=14;" value="" vertex="1">
+        <mxCell id="4Shzc62h_MbYj6JmCuAw-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="180" width="650" x="570" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4Shzc62h_MbYj6JmCuAw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;fontSize=14;" value="" vertex="1">
+        <mxCell id="4Shzc62h_MbYj6JmCuAw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="360" width="900" x="180" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="4Shzc62h_MbYj6JmCuAw-12" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="4Shzc62h_MbYj6JmCuAw-10">
+        <mxCell id="4Shzc62h_MbYj6JmCuAw-12" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="320.0526315789474" as="sourcePoint" />
           </mxGeometry>
@@ -27,7 +27,7 @@
         <mxCell id="4Shzc62h_MbYj6JmCuAw-27" edge="1" parent="1" source="4Shzc62h_MbYj6JmCuAw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" target="4Shzc62h_MbYj6JmCuAw-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Shzc62h_MbYj6JmCuAw-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Horizion/Skyline/OpenStack_Client_tool" vertex="1">
+        <mxCell id="4Shzc62h_MbYj6JmCuAw-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" value="Horizion/Skyline/OpenStack_Client_tool" vertex="1">
           <mxGeometry height="60" width="235" x="-70" y="410" as="geometry" />
         </mxCell>
         <mxCell id="4Shzc62h_MbYj6JmCuAw-29" edge="1" parent="1" source="4Shzc62h_MbYj6JmCuAw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fontSize=14;" target="4Shzc62h_MbYj6JmCuAw-28">
@@ -137,7 +137,7 @@
         <mxCell id="4Shzc62h_MbYj6JmCuAw-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;OpenStack Controller节点&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="180" x="550" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="4Shzc62h_MbYj6JmCuAw-67" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;opacity=50;" value="" vertex="1">
+        <mxCell id="4Shzc62h_MbYj6JmCuAw-67" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="190" width="620" x="-70" y="30" as="geometry" />
         </mxCell>
         <mxCell id="4Shzc62h_MbYj6JmCuAw-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="实线 ： API调用 / 控制流（用户认证、Nova调度、Neutron配置等）" vertex="1">

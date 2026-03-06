@@ -229,7 +229,7 @@
         </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-58" connectable="0" parent="l76jbwdOnAa7UPbj4SIp-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" value="Ansible SSH 自动化部署" vertex="1">
           <mxGeometry relative="1" x="0.5501" y="15" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="41" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l76jbwdOnAa7UPbj4SIp-28" parent="1" style="whiteSpace=wrap;html=1;fontSize=14;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;宿主机Ansible环境&lt;/font&gt;" vertex="1">

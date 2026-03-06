@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.1">
   <diagram name="第 1 页" id="Jdlc_QLz1rqgmwSzweCE">
-    <mxGraphModel dx="221" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="991" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,13 +17,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="280" width="450" x="120" y="460" as="geometry" />
+          <mxGeometry height="300" width="530" x="120" y="460" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-9" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" value="" vertex="1">
           <mxGeometry height="98" width="89" x="140" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="tu8p57BgmBtueYVtUOrZ-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;核心服务&lt;/div&gt;&lt;div&gt;Keystone&lt;/div&gt;&lt;div&gt;Glance&lt;/div&gt;&lt;div&gt;Nova（API，Sch，Con）&lt;/div&gt;&lt;div&gt;Placement&lt;/div&gt;&lt;div&gt;Neutron&lt;/div&gt;&lt;div&gt;Cinder&lt;/div&gt;&lt;div&gt;Horzion&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="150" x="240" y="465" as="geometry" />
+        <mxCell id="tu8p57BgmBtueYVtUOrZ-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="&lt;div&gt;核心服务&lt;/div&gt;&lt;div&gt;Keystone&lt;/div&gt;&lt;div&gt;Glance&lt;/div&gt;&lt;div&gt;Nova（API，Sch，Con）&lt;/div&gt;&lt;div&gt;Placement&lt;/div&gt;&lt;div&gt;Neutron&lt;/div&gt;&lt;div&gt;Cinder&lt;/div&gt;&lt;div&gt;Horzion&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="210" x="240" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="tu8p57BgmBtueYVtUOrZ-11" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="MariaDB,RabbitMQ" vertex="1">
+          <mxGeometry height="60" width="170" x="460" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="tu8p57BgmBtueYVtUOrZ-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;OpenStack-Controller&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="315" y="710" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -16,7 +16,7 @@
         <mxCell id="MYNrzY4uk0nymoJmlu4w-4" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" value="" vertex="1">
           <mxGeometry height="98" width="89" x="290" y="570" as="geometry" />
         </mxCell>
-        <mxCell id="MYNrzY4uk0nymoJmlu4w-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="&lt;div&gt;核心服务&lt;/div&gt;&lt;div&gt;Keystone&lt;/div&gt;&lt;div&gt;Glance&lt;/div&gt;&lt;div&gt;Nova（API，Sch，Con）&lt;/div&gt;&lt;div&gt;Placement&lt;/div&gt;&lt;div&gt;Neutron（DHCP Agent，L3 Agent，Metadata Agent）&lt;/div&gt;&lt;div&gt;Cinder&lt;/div&gt;&lt;div&gt;Horzion&lt;/div&gt;" vertex="1">
+        <mxCell id="MYNrzY4uk0nymoJmlu4w-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="&lt;div&gt;核心服务&lt;/div&gt;&lt;div&gt;Cephadm工具（podman容器）&lt;/div&gt;&lt;div&gt;Manager(MGR)&lt;/div&gt;&lt;div&gt;Monitor(Mon)&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="292" x="388" y="594" as="geometry" />
         </mxCell>
         <mxCell id="MYNrzY4uk0nymoJmlu4w-6" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="&lt;div&gt;MariaDB&lt;/div&gt;&lt;div&gt;RabbitMQ&lt;/div&gt;" vertex="1">

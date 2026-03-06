@@ -22,25 +22,14 @@
         <mxCell id="tu8p57BgmBtueYVtUOrZ-9" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" value="" vertex="1">
           <mxGeometry height="98" width="89" x="210" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="tu8p57BgmBtueYVtUOrZ-26" edge="1" parent="1" source="tu8p57BgmBtueYVtUOrZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="tu8p57BgmBtueYVtUOrZ-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="&lt;div&gt;核心服务&lt;/div&gt;&lt;div&gt;Keystone&lt;/div&gt;&lt;div&gt;Glance&lt;/div&gt;&lt;div&gt;Nova（API，Sch，Con）&lt;/div&gt;&lt;div&gt;Placement&lt;/div&gt;&lt;div&gt;Neutron&lt;/div&gt;&lt;div&gt;Cinder&lt;/div&gt;&lt;div&gt;Horzion&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="210" x="320" y="560" as="geometry" />
-        </mxCell>
-        <mxCell id="tu8p57BgmBtueYVtUOrZ-27" edge="1" parent="1" source="tu8p57BgmBtueYVtUOrZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="tu8p57BgmBtueYVtUOrZ-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="625" y="510" />
-              <mxPoint x="360" y="510" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry height="200" width="210" x="308" y="484" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-11" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="MariaDB,RabbitMQ" vertex="1">
-          <mxGeometry height="60" width="170" x="540" y="560" as="geometry" />
+          <mxGeometry height="60" width="170" x="530" y="488" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="&lt;div&gt;OpenStack-Controller&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="195" x="367.5" y="760" as="geometry" />
+          <mxGeometry height="30" width="195" x="367.5" y="730" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;浮动IP网络&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="200" y="180" as="geometry" />

@@ -91,8 +91,18 @@
         <mxCell id="tu8p57BgmBtueYVtUOrZ-32" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="KVM虚拟化" vertex="1">
           <mxGeometry height="40" width="110" x="1080" y="565" as="geometry" />
         </mxCell>
+        <mxCell id="tu8p57BgmBtueYVtUOrZ-36" edge="1" parent="1" source="tu8p57BgmBtueYVtUOrZ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Eth1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;IP：10.1.10.11/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="850" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="tu8p57BgmBtueYVtUOrZ-37" edge="1" parent="1" source="tu8p57BgmBtueYVtUOrZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Eth1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;IP：None&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="1040" y="380" as="geometry" />

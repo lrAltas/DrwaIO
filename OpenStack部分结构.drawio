@@ -50,7 +50,7 @@
           <mxGeometry height="40" width="110" x="1080" y="489" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="&lt;div&gt;OpenStack-Compute01&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="195" x="917.5" y="690" as="geometry" />
+          <mxGeometry height="30" width="195" x="887.5" y="690" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-28" edge="1" parent="1" source="tu8p57BgmBtueYVtUOrZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">

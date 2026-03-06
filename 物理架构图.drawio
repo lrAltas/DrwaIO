@@ -14,7 +14,7 @@
           <mxGeometry height="180" width="1430" x="-240" y="80" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;fontSize=14;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="200" width="508.6" x="701.4" y="330" as="geometry" />
+          <mxGeometry height="200" width="498.6" x="701.4" y="330" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;fontSize=14;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="200" width="610" x="71.4" y="330" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry height="80" width="32.8" x="950" y="350" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-59" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#5D7F99;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;labelBackgroundColor=none;fontColor=#1A1A1A;fontSize=14;" value="&lt;div&gt;&lt;div&gt;Cephadm_OSD02节点&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="32.8" x="1110" y="350" as="geometry" />
+          <mxGeometry height="80" width="32.8" x="1100" y="350" as="geometry" />
         </mxCell>
         <mxCell id="5aikNTGSVbQ0lq5X6MTc-68" edge="1" parent="1" source="5aikNTGSVbQ0lq5X6MTc-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;fontSize=14;" target="5aikNTGSVbQ0lq5X6MTc-49">
           <mxGeometry relative="1" as="geometry" />

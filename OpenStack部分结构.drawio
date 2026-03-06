@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.1">
   <diagram name="第 1 页" id="Jdlc_QLz1rqgmwSzweCE">
-    <mxGraphModel dx="850" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="967" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,11 +22,11 @@
         <mxCell id="tu8p57BgmBtueYVtUOrZ-9" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" value="" vertex="1">
           <mxGeometry height="98" width="89" x="210" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="tu8p57BgmBtueYVtUOrZ-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="&lt;div&gt;核心服务&lt;/div&gt;&lt;div&gt;Keystone&lt;/div&gt;&lt;div&gt;Glance&lt;/div&gt;&lt;div&gt;Nova（API，Sch，Con）&lt;/div&gt;&lt;div&gt;Placement&lt;/div&gt;&lt;div&gt;Neutron&lt;/div&gt;&lt;div&gt;Cinder&lt;/div&gt;&lt;div&gt;Horzion&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="210" x="308" y="484" as="geometry" />
+        <mxCell id="tu8p57BgmBtueYVtUOrZ-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="&lt;div&gt;核心服务&lt;/div&gt;&lt;div&gt;Keystone&lt;/div&gt;&lt;div&gt;Glance&lt;/div&gt;&lt;div&gt;Nova（API，Sch，Con）&lt;/div&gt;&lt;div&gt;Placement&lt;/div&gt;&lt;div&gt;Neutron（DHCP Agent，L3 Agent，Metadata Agent）&lt;/div&gt;&lt;div&gt;Cinder&lt;/div&gt;&lt;div&gt;Horzion&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="292" x="308" y="484" as="geometry" />
         </mxCell>
-        <mxCell id="tu8p57BgmBtueYVtUOrZ-11" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="MariaDB,RabbitMQ" vertex="1">
-          <mxGeometry height="60" width="170" x="530" y="488" as="geometry" />
+        <mxCell id="tu8p57BgmBtueYVtUOrZ-11" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="&lt;div&gt;MariaDB&lt;/div&gt;&lt;div&gt;RabbitMQ&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="590" y="498" as="geometry" />
         </mxCell>
         <mxCell id="tu8p57BgmBtueYVtUOrZ-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="&lt;div&gt;OpenStack-Controller&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="195" x="367.5" y="730" as="geometry" />

@@ -85,13 +85,17 @@
         <mxCell id="MYNrzY4uk0nymoJmlu4w-46" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Mon，Mgr可通过集群拓展&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="1654" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="MYNrzY4uk0nymoJmlu4w-48" edge="1" parent="1" source="MYNrzY4uk0nymoJmlu4w-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="MYNrzY4uk0nymoJmlu4w-48" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1705" y="210" as="sourcePoint" />
             <mxPoint x="1705" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MYNrzY4uk0nymoJmlu4w-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;OpenStack集群&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Cinder，Glance等服务&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="190" x="1610" y="150" as="geometry" />
+        <mxCell id="MYNrzY4uk0nymoJmlu4w-49" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" value="" vertex="1">
+          <mxGeometry height="98" width="89" x="1680" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MYNrzY4uk0nymoJmlu4w-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;OpenStack集群&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Cinder，Glance等服务&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="1467.5" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

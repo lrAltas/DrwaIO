@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zSCgpAVUq9VG1U8ImC3Y-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;开始：&lt;/div&gt;&lt;div&gt;源版本：9.7P22--&amp;gt;目标版本&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="220" y="110" as="geometry" />
+        <mxCell id="zSCgpAVUq9VG1U8ImC3Y-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;开始：&lt;span style=&quot;white-space: pre-wrap&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre-wrap&quot;&gt;源版本: 9.7P22 → 目标: 9.15.1P17&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;环境: 1台FAS2750独立 + 2台FAS2720&lt;br/&gt;互相SnapMirror DR关系&lt;/p&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="320" x="220" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

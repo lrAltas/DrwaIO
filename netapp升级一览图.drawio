@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="GXbr6VhahcmmUJ_O-NKV">
-    <mxGraphModel dx="980" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="681" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PFWBj6fAnV_ImSTeGhQ0-2" edge="1" parent="1" source="zSCgpAVUq9VG1U8ImC3Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PFWBj6fAnV_ImSTeGhQ0-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zSCgpAVUq9VG1U8ImC3Y-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;开始：&lt;span style=&quot;white-space: pre-wrap&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre-wrap&quot;&gt;源版本: 9.7P22 → 目标: 9.15.1P17&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;环境: 1台FAS2750独立 + 2台FAS2720&lt;/p&gt;&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;互相SnapMirror DR关系&lt;/p&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="zSCgpAVUq9VG1U8ImC3Y-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="开始&lt;br&gt;源版本: 9.7P22 → 目标: 9.15.1P17&lt;br&gt;环境: 1台FAS2750独立 + 2台FAS2720&lt;br&gt;互相SnapMirror DR关系" vertex="1">
           <mxGeometry height="140" width="280" x="240" y="120" as="geometry" />
         </mxCell>
         <mxCell id="PFWBj6fAnV_ImSTeGhQ0-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;共同准备阶段&lt;/div&gt;&lt;div&gt;&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;共同准备阶段（两种方式都必须执行）&lt;br/&gt;1. Active IQ Upgrade Advisor报告&lt;br/&gt;2. 下载3个镜像: 9.8最新P + 9.12.1最新P + 9.15.1P17&lt;br/&gt;3. 备份配置 + AutoSupport&lt;br/&gt;4. 健康检查: cluster show / snapmirror show -type&lt;br/&gt;5. ⚠️ 强制检查SnapMirror类型&lt;br/&gt;   如果是 DP 类型 → 必须转换为 XDP&lt;br/&gt;   （命令: snapmirror convert ... 或 break+delete+create XDP+resync）&lt;br/&gt;6. SnapMirror DR Quiesce&lt;br/&gt;7. 确认LIF failover、磁盘空间&lt;/p&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">

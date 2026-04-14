@@ -73,11 +73,20 @@
         <mxCell id="PFWBj6fAnV_ImSTeGhQ0-19" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;升级SnapMirror Source&lt;br/&gt;FAS2720-生产端&lt;br/&gt;cluster image update&lt;br/&gt;自动Multi-Hop&lt;/p&gt;" vertex="1">
           <mxGeometry height="110" width="165" x="542.5" y="1240" as="geometry" />
         </mxCell>
+        <mxCell id="PFWBj6fAnV_ImSTeGhQ0-28" edge="1" parent="1" source="PFWBj6fAnV_ImSTeGhQ0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PFWBj6fAnV_ImSTeGhQ0-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PFWBj6fAnV_ImSTeGhQ0-21" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;恢复DR SnapMirror&lt;br/&gt;snapmirror resume + update&lt;br/&gt;监控传输状态&lt;/p&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="100" y="1390" as="geometry" />
         </mxCell>
+        <mxCell id="PFWBj6fAnV_ImSTeGhQ0-29" edge="1" parent="1" source="PFWBj6fAnV_ImSTeGhQ0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PFWBj6fAnV_ImSTeGhQ0-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PFWBj6fAnV_ImSTeGhQ0-23" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;恢复DR SnapMirror&lt;br/&gt;snapmirror resume + update&lt;br/&gt;监控传输状态&lt;/p&gt;" vertex="1">
           <mxGeometry height="85" width="135" x="557.5" y="1385" as="geometry" />
+        </mxCell>
+        <mxCell id="PFWBj6fAnV_ImSTeGhQ0-25" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;公共后验证阶段&lt;br/&gt;1. cluster show / version -v&lt;br/&gt;2. snapmirror show（确认全部为XDP）&lt;br/&gt;3. system health alert show&lt;br/&gt;4. 运行AutoSupport&lt;br/&gt;5. 监控24-48小时&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="230" x="280" y="1660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

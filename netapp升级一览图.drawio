@@ -49,11 +49,17 @@
         <mxCell id="PFWBj6fAnV_ImSTeGhQ0-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;升级SnapMirror DR Destination&lt;br/&gt;FAS2720-DR端&lt;br/&gt;手动逐节点 install + reboot&lt;br/&gt;⚠️ 必须先升级此端&lt;br/&gt;完成3阶段Multi-Hop&lt;/p&gt;" vertex="1">
           <mxGeometry height="90" width="182.5" x="533.75" y="915" as="geometry" />
         </mxCell>
+        <mxCell id="PFWBj6fAnV_ImSTeGhQ0-18" edge="1" parent="1" source="PFWBj6fAnV_ImSTeGhQ0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PFWBj6fAnV_ImSTeGhQ0-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PFWBj6fAnV_ImSTeGhQ0-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;验证DR SnapMirror&lt;br/&gt;snapmirror show&lt;br/&gt;Resync / Update&lt;br/&gt;确认已为XDP类型&lt;/p&gt;" vertex="1">
-          <mxGeometry height="100" width="150" x="95" y="1100" as="geometry" />
+          <mxGeometry height="100" width="150" x="95" y="1090" as="geometry" />
         </mxCell>
         <mxCell id="PFWBj6fAnV_ImSTeGhQ0-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;验证DR SnapMirror&lt;br/&gt;snapmirror show&lt;br/&gt;Resync / Update&lt;br/&gt;确认已为XDP类型&lt;/p&gt;" vertex="1">
           <mxGeometry height="100" width="150" x="550" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="PFWBj6fAnV_ImSTeGhQ0-17" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;升级SnapMirror Source&lt;br/&gt;FAS2720-生产端&lt;br/&gt;cluster image update&lt;br/&gt;自动Multi-Hop&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="210" x="65" y="1250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -86,7 +86,7 @@
           <mxGeometry height="85" width="135" x="557.5" y="1385" as="geometry" />
         </mxCell>
         <mxCell id="PFWBj6fAnV_ImSTeGhQ0-25" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;公共后验证阶段&lt;br/&gt;1. cluster show / version -v&lt;br/&gt;2. snapmirror show（确认全部为XDP）&lt;br/&gt;3. system health alert show&lt;br/&gt;4. 运行AutoSupport&lt;br/&gt;5. 监控24-48小时&lt;/p&gt;" vertex="1">
-          <mxGeometry height="130" width="230" x="280" y="1660" as="geometry" />
+          <mxGeometry height="130" width="230" x="270" y="1550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

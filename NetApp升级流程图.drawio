@@ -63,8 +63,14 @@
         <mxCell id="_BOHHn5lYisgqpof5LBc-18" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="对SnapMirror节点中的Destination节点进行升级" vertex="1">
           <mxGeometry height="60" width="120" x="562.5" y="580" as="geometry" />
         </mxCell>
+        <mxCell id="_BOHHn5lYisgqpof5LBc-23" edge="1" parent="1" source="_BOHHn5lYisgqpof5LBc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_BOHHn5lYisgqpof5LBc-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_BOHHn5lYisgqpof5LBc-20" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="对SnapMirror节点中的Source节点进行升级" vertex="1">
           <mxGeometry height="60" width="120" x="562.5" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="_BOHHn5lYisgqpof5LBc-22" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="验证升级状况" vertex="1">
+          <mxGeometry height="60" width="120" x="562.5" y="860" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

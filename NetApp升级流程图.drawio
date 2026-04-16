@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="KktU1lXZL_f6oB8EfMXw">
-    <mxGraphModel dx="980" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="980" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,11 +29,30 @@
         <mxCell id="_BOHHn5lYisgqpof5LBc-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="是否存在需要进行升级前修复的问题" vertex="1">
           <mxGeometry height="110" width="215" x="347.5" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="_BOHHn5lYisgqpof5LBc-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="先行修复" vertex="1">
+        <mxCell id="_BOHHn5lYisgqpof5LBc-16" edge="1" parent="1" source="_BOHHn5lYisgqpof5LBc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vkYpYUXY88liCNayPRmx-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="470" />
+              <mxPoint x="210" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_BOHHn5lYisgqpof5LBc-17" connectable="0" parent="_BOHHn5lYisgqpof5LBc-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="重新检测" vertex="1">
+          <mxGeometry relative="1" x="-0.1931" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_BOHHn5lYisgqpof5LBc-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;先行修复问题&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="228" y="440" as="geometry" />
         </mxCell>
         <mxCell id="_BOHHn5lYisgqpof5LBc-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="562.5" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="_BOHHn5lYisgqpof5LBc-15" edge="1" parent="1" source="_BOHHn5lYisgqpof5LBc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vkYpYUXY88liCNayPRmx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_BOHHn5lYisgqpof5LBc-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预估风险点" vertex="1">
+          <mxGeometry height="60" width="120" x="395" y="-20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

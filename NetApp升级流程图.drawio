@@ -61,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_BOHHn5lYisgqpof5LBc-18" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="对两台FAS2720的额SnapMirror节点中的Destination节点进行升级" vertex="1">
-          <mxGeometry height="90" width="147.5" x="548.75" y="550" as="geometry" />
+          <mxGeometry height="80" width="131.25" x="556.88" y="560" as="geometry" />
         </mxCell>
         <mxCell id="_BOHHn5lYisgqpof5LBc-23" edge="1" parent="1" source="_BOHHn5lYisgqpof5LBc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_BOHHn5lYisgqpof5LBc-22" value="">
           <mxGeometry relative="1" as="geometry" />

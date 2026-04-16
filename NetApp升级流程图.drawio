@@ -45,7 +45,7 @@
         <mxCell id="_BOHHn5lYisgqpof5LBc-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;修复影响升级的问题&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="228" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="_BOHHn5lYisgqpof5LBc-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="_BOHHn5lYisgqpof5LBc-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="对单台FAS2750机器进行升级" vertex="1">
           <mxGeometry height="60" width="120" x="562.5" y="440" as="geometry" />
         </mxCell>
         <mxCell id="_BOHHn5lYisgqpof5LBc-15" edge="1" parent="1" source="_BOHHn5lYisgqpof5LBc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vkYpYUXY88liCNayPRmx-1">

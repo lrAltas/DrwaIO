@@ -10,8 +10,30 @@
         <mxCell id="vkYpYUXY88liCNayPRmx-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="使用Active IQ Config Advisor获取升级前的检测报告" vertex="1">
           <mxGeometry height="60" width="170" x="370" y="100" as="geometry" />
         </mxCell>
+        <mxCell id="_BOHHn5lYisgqpof5LBc-8" edge="1" parent="1" source="_BOHHn5lYisgqpof5LBc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_BOHHn5lYisgqpof5LBc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_BOHHn5lYisgqpof5LBc-11" connectable="0" parent="_BOHHn5lYisgqpof5LBc-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="存在问题" vertex="1">
+          <mxGeometry relative="1" x="0.146" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_BOHHn5lYisgqpof5LBc-10" edge="1" parent="1" source="_BOHHn5lYisgqpof5LBc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_BOHHn5lYisgqpof5LBc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_BOHHn5lYisgqpof5LBc-13" connectable="0" parent="_BOHHn5lYisgqpof5LBc-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="无问题" vertex="1">
+          <mxGeometry relative="1" x="0.1396" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_BOHHn5lYisgqpof5LBc-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="是否存在需要进行升级前修复的问题" vertex="1">
-          <mxGeometry height="80" width="215" x="347.5" y="200" as="geometry" />
+          <mxGeometry height="110" width="215" x="347.5" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_BOHHn5lYisgqpof5LBc-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="先行修复" vertex="1">
+          <mxGeometry height="60" width="120" x="228" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="_BOHHn5lYisgqpof5LBc-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="562.5" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

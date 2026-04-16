@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_BOHHn5lYisgqpof5LBc-2" edge="1" parent="1" source="vkYpYUXY88liCNayPRmx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_BOHHn5lYisgqpof5LBc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vkYpYUXY88liCNayPRmx-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="使用Active IQ Config Advisor获取升级前的检测报告" vertex="1">
           <mxGeometry height="60" width="170" x="370" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_BOHHn5lYisgqpof5LBc-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="是否存在需要进行升级前修复的问题" vertex="1">
+          <mxGeometry height="80" width="215" x="347.5" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -39,17 +39,17 @@
         </mxCell>
         <mxCell id="_BOHHn5lYisgqpof5LBc-17" connectable="0" parent="_BOHHn5lYisgqpof5LBc-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="重新检测" vertex="1">
           <mxGeometry relative="1" x="-0.1931" y="2" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-48" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_BOHHn5lYisgqpof5LBc-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;修复影响升级的问题&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="228" y="440" as="geometry" />
+          <mxGeometry height="60" width="120" x="227.5" y="370" as="geometry" />
         </mxCell>
         <mxCell id="_BOHHn5lYisgqpof5LBc-19" edge="1" parent="1" source="_BOHHn5lYisgqpof5LBc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_BOHHn5lYisgqpof5LBc-18" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_BOHHn5lYisgqpof5LBc-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="对单台FAS2750机器进行升级" vertex="1">
-          <mxGeometry height="60" width="120" x="562.5" y="440" as="geometry" />
+          <mxGeometry height="60" width="120" x="562.51" y="370" as="geometry" />
         </mxCell>
         <mxCell id="_BOHHn5lYisgqpof5LBc-15" edge="1" parent="1" source="_BOHHn5lYisgqpof5LBc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vkYpYUXY88liCNayPRmx-1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,22 +61,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_BOHHn5lYisgqpof5LBc-18" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="对两台FAS2720的额SnapMirror节点中的Destination节点进行升级" vertex="1">
-          <mxGeometry height="80" width="131.25" x="556.88" y="560" as="geometry" />
+          <mxGeometry height="80" width="131.25" x="556.88" y="460" as="geometry" />
         </mxCell>
         <mxCell id="_BOHHn5lYisgqpof5LBc-23" edge="1" parent="1" source="_BOHHn5lYisgqpof5LBc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_BOHHn5lYisgqpof5LBc-22" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_BOHHn5lYisgqpof5LBc-20" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="对SnapMirror节点中的Source节点进行升级" vertex="1">
-          <mxGeometry height="60" width="120" x="562.5" y="720" as="geometry" />
+          <mxGeometry height="60" width="120" x="562.51" y="560" as="geometry" />
         </mxCell>
         <mxCell id="_BOHHn5lYisgqpof5LBc-25" edge="1" parent="1" source="_BOHHn5lYisgqpof5LBc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_BOHHn5lYisgqpof5LBc-24" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_BOHHn5lYisgqpof5LBc-22" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;验证升级状况&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="562.5" y="860" as="geometry" />
+          <mxGeometry height="60" width="120" x="562.5" y="640" as="geometry" />
         </mxCell>
         <mxCell id="_BOHHn5lYisgqpof5LBc-24" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="完成升级" vertex="1">
-          <mxGeometry height="60" width="120" x="562.5" y="1000" as="geometry" />
+          <mxGeometry height="60" width="120" x="562.5" y="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

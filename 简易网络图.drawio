@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="uRu95vvNP15LyxrI70ch">
-    <mxGraphModel dx="1911" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2115" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
         <mxCell id="aY_nnJ46lgQ6HjUiuNEG-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;strokeWidth=10;fillColor=#fff2cc;strokeColor=#d6b656;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="60" y="-40" as="sourcePoint" />
-            <mxPoint x="810" y="-40" as="targetPoint" />
+            <mxPoint x="1510" y="-40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aY_nnJ46lgQ6HjUiuNEG-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
@@ -57,13 +57,13 @@
         <mxCell id="aY_nnJ46lgQ6HjUiuNEG-15" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;strokeWidth=10;fillColor=#d5e8d4;strokeColor=#82b366;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="60" y="-120" as="sourcePoint" />
-            <mxPoint x="810" y="-120" as="targetPoint" />
+            <mxPoint x="1510" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aY_nnJ46lgQ6HjUiuNEG-16" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;strokeWidth=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="60" y="50" as="sourcePoint" />
-            <mxPoint x="810" y="50" as="targetPoint" />
+            <mxPoint x="1510" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aY_nnJ46lgQ6HjUiuNEG-22" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;strokeWidth=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
@@ -110,6 +110,106 @@
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PCIE千兆网口" vertex="1">
           <mxGeometry height="30" width="80" x="-130" y="357.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="177.5" width="197.5" x="750" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-16" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;" value="" vertex="1">
+          <mxGeometry height="85" width="65" x="816.25" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-17" edge="1" parent="1" source="ozRJ54iigAnFeRuDw9cI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="781.25" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-18" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="756.25" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-19" edge="1" parent="1" source="ozRJ54iigAnFeRuDw9cI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900.7349999999999" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-20" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_network_adapter;" value="" vertex="1">
+          <mxGeometry height="40" width="68.97" x="866.25" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph节点节点" vertex="1">
+          <mxGeometry height="30" width="90" x="803.75" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="177.5" width="197.5" x="980" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-29" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;" value="" vertex="1">
+          <mxGeometry height="85" width="65" x="1046.25" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-30" edge="1" parent="1" source="ozRJ54iigAnFeRuDw9cI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1011.25" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-31" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="986.25" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-32" edge="1" parent="1" source="ozRJ54iigAnFeRuDw9cI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130.735" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-33" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_network_adapter;" value="" vertex="1">
+          <mxGeometry height="40" width="68.97" x="1096.25" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph节点节点" vertex="1">
+          <mxGeometry height="30" width="90" x="1033.75" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="177.5" width="197.5" x="1210" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-36" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;" value="" vertex="1">
+          <mxGeometry height="85" width="65" x="1276.25" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-37" edge="1" parent="1" source="ozRJ54iigAnFeRuDw9cI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1241.25" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-38" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="1216.25" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-39" edge="1" parent="1" source="ozRJ54iigAnFeRuDw9cI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1360.735" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-40" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_network_adapter;" value="" vertex="1">
+          <mxGeometry height="40" width="68.97" x="1326.25" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph节点节点" vertex="1">
+          <mxGeometry height="30" width="90" x="1263.75" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="177.5" width="197.5" x="1440" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-43" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;" value="" vertex="1">
+          <mxGeometry height="85" width="65" x="1506.25" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-44" edge="1" parent="1" source="ozRJ54iigAnFeRuDw9cI-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1471.25" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-45" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="1446.25" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-46" edge="1" parent="1" source="ozRJ54iigAnFeRuDw9cI-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1590.735" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-47" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_network_adapter;" value="" vertex="1">
+          <mxGeometry height="40" width="68.97" x="1556.25" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph节点节点" vertex="1">
+          <mxGeometry height="30" width="90" x="1493.75" y="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="uRu95vvNP15LyxrI70ch">
-    <mxGraphModel dx="2298" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4947" dy="3309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,132 +237,132 @@
           <mxGeometry height="30" width="90" x="353.75" y="280" as="geometry" />
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-56" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" value="IP规划表" vertex="1">
-          <mxGeometry height="848" width="752.75" x="756.25" y="-970" as="geometry" />
+          <mxGeometry height="710" width="752.75" x="1780" y="-160" as="geometry" />
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-57" parent="ozRJ54iigAnFeRuDw9cI-56" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="117" width="752.75" y="30" as="geometry" />
+          <mxGeometry height="97" width="752.75" y="30" as="geometry" />
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-58" parent="ozRJ54iigAnFeRuDw9cI-57" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="compute01.openstack.suying" vertex="1">
-          <mxGeometry height="117" width="252" as="geometry">
-            <mxRectangle height="117" width="252" as="alternateBounds" />
+          <mxGeometry height="97" width="252" as="geometry">
+            <mxRectangle height="97" width="252" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-59" parent="ozRJ54iigAnFeRuDw9cI-57" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;机带网卡&lt;/div&gt;&lt;div&gt;IP:10.1.10.82/24&lt;/div&gt;&lt;div&gt;DNS:223.5.5.5.&lt;/div&gt;&lt;div&gt;Gatway:10.1.10.1&lt;/div&gt;" vertex="1">
-          <mxGeometry height="117" width="249" x="252" as="geometry">
-            <mxRectangle height="117" width="249" as="alternateBounds" />
+          <mxGeometry height="97" width="249" x="252" as="geometry">
+            <mxRectangle height="97" width="249" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-60" parent="ozRJ54iigAnFeRuDw9cI-57" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="117" width="252" x="501" as="geometry">
-            <mxRectangle height="117" width="252" as="alternateBounds" />
+          <mxGeometry height="97" width="252" x="501" as="geometry">
+            <mxRectangle height="97" width="252" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-61" parent="ozRJ54iigAnFeRuDw9cI-56" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="116" width="752.75" y="147" as="geometry" />
+          <mxGeometry height="97" width="752.75" y="127" as="geometry" />
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-62" parent="ozRJ54iigAnFeRuDw9cI-61" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="compute02.openstack.suying" vertex="1">
-          <mxGeometry height="116" width="252" as="geometry">
-            <mxRectangle height="116" width="252" as="alternateBounds" />
+          <mxGeometry height="97" width="252" as="geometry">
+            <mxRectangle height="97" width="252" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-63" parent="ozRJ54iigAnFeRuDw9cI-61" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;机带网卡&lt;/div&gt;&lt;div&gt;IP:10.1.10.83/24&lt;/div&gt;&lt;div&gt;DNS:223.5.5.5.&lt;/div&gt;&lt;div&gt;Gatway:10.1.10.1&lt;/div&gt;" vertex="1">
-          <mxGeometry height="116" width="249" x="252" as="geometry">
-            <mxRectangle height="116" width="249" as="alternateBounds" />
+          <mxGeometry height="97" width="249" x="252" as="geometry">
+            <mxRectangle height="97" width="249" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-64" parent="ozRJ54iigAnFeRuDw9cI-61" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="116" width="252" x="501" as="geometry">
-            <mxRectangle height="116" width="252" as="alternateBounds" />
+          <mxGeometry height="97" width="252" x="501" as="geometry">
+            <mxRectangle height="97" width="252" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-69" parent="ozRJ54iigAnFeRuDw9cI-56" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="117" width="752.75" y="263" as="geometry" />
+          <mxGeometry height="97" width="752.75" y="224" as="geometry" />
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-70" parent="ozRJ54iigAnFeRuDw9cI-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="cephadm01.openstack.suying" vertex="1">
-          <mxGeometry height="117" width="252" as="geometry">
-            <mxRectangle height="117" width="252" as="alternateBounds" />
+          <mxGeometry height="97" width="252" as="geometry">
+            <mxRectangle height="97" width="252" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-71" parent="ozRJ54iigAnFeRuDw9cI-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;机带网卡&lt;/div&gt;&lt;div&gt;IP:10.1.10.90/24&lt;/div&gt;&lt;div&gt;DNS:223.5.5.5.&lt;/div&gt;&lt;div&gt;Gatway:10.1.10.1&lt;/div&gt;" vertex="1">
-          <mxGeometry height="117" width="249" x="252" as="geometry">
-            <mxRectangle height="117" width="249" as="alternateBounds" />
+          <mxGeometry height="97" width="249" x="252" as="geometry">
+            <mxRectangle height="97" width="249" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-72" parent="ozRJ54iigAnFeRuDw9cI-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="117" width="252" x="501" as="geometry">
-            <mxRectangle height="117" width="252" as="alternateBounds" />
+          <mxGeometry height="97" width="252" x="501" as="geometry">
+            <mxRectangle height="97" width="252" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-73" parent="ozRJ54iigAnFeRuDw9cI-56" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="117" width="752.75" y="380" as="geometry" />
+          <mxGeometry height="97" width="752.75" y="321" as="geometry" />
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-74" parent="ozRJ54iigAnFeRuDw9cI-73" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="cephadm02.openstack.suying" vertex="1">
-          <mxGeometry height="117" width="252" as="geometry">
-            <mxRectangle height="117" width="252" as="alternateBounds" />
+          <mxGeometry height="97" width="252" as="geometry">
+            <mxRectangle height="97" width="252" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-75" parent="ozRJ54iigAnFeRuDw9cI-73" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;机带网卡&lt;/div&gt;&lt;div&gt;IP:10.1.10.91/24&lt;/div&gt;&lt;div&gt;DNS:223.5.5.5.&lt;/div&gt;&lt;div&gt;Gatway:10.1.10.1&lt;/div&gt;" vertex="1">
-          <mxGeometry height="117" width="249" x="252" as="geometry">
-            <mxRectangle height="117" width="249" as="alternateBounds" />
+          <mxGeometry height="97" width="249" x="252" as="geometry">
+            <mxRectangle height="97" width="249" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-76" parent="ozRJ54iigAnFeRuDw9cI-73" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="117" width="252" x="501" as="geometry">
-            <mxRectangle height="117" width="252" as="alternateBounds" />
+          <mxGeometry height="97" width="252" x="501" as="geometry">
+            <mxRectangle height="97" width="252" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-77" parent="ozRJ54iigAnFeRuDw9cI-56" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="117" width="752.75" y="497" as="geometry" />
+          <mxGeometry height="97" width="752.75" y="418" as="geometry" />
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-78" parent="ozRJ54iigAnFeRuDw9cI-77" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="cephadm03.openstack.suying" vertex="1">
-          <mxGeometry height="117" width="252" as="geometry">
-            <mxRectangle height="117" width="252" as="alternateBounds" />
+          <mxGeometry height="97" width="252" as="geometry">
+            <mxRectangle height="97" width="252" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-79" parent="ozRJ54iigAnFeRuDw9cI-77" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;机带网卡&lt;/div&gt;&lt;div&gt;IP:10.1.10.92/24&lt;/div&gt;&lt;div&gt;DNS:223.5.5.5.&lt;/div&gt;&lt;div&gt;Gatway:10.1.10.1&lt;/div&gt;" vertex="1">
-          <mxGeometry height="117" width="249" x="252" as="geometry">
-            <mxRectangle height="117" width="249" as="alternateBounds" />
+          <mxGeometry height="97" width="249" x="252" as="geometry">
+            <mxRectangle height="97" width="249" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-80" parent="ozRJ54iigAnFeRuDw9cI-77" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="117" width="252" x="501" as="geometry">
-            <mxRectangle height="117" width="252" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ozRJ54iigAnFeRuDw9cI-81" parent="ozRJ54iigAnFeRuDw9cI-56" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="117" width="752.75" y="614" as="geometry" />
-        </mxCell>
-        <mxCell id="ozRJ54iigAnFeRuDw9cI-82" parent="ozRJ54iigAnFeRuDw9cI-81" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="cephadm04.openstack.suying" vertex="1">
-          <mxGeometry height="117" width="252" as="geometry">
-            <mxRectangle height="117" width="252" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ozRJ54iigAnFeRuDw9cI-83" parent="ozRJ54iigAnFeRuDw9cI-81" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;机带网卡&lt;/div&gt;&lt;div&gt;IP:10.1.10.93/24&lt;/div&gt;&lt;div&gt;DNS:223.5.5.5.&lt;/div&gt;&lt;div&gt;Gatway:10.1.10.1&lt;/div&gt;" vertex="1">
-          <mxGeometry height="117" width="249" x="252" as="geometry">
-            <mxRectangle height="117" width="249" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ozRJ54iigAnFeRuDw9cI-84" parent="ozRJ54iigAnFeRuDw9cI-81" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="117" width="252" x="501" as="geometry">
-            <mxRectangle height="117" width="252" as="alternateBounds" />
+          <mxGeometry height="97" width="252" x="501" as="geometry">
+            <mxRectangle height="97" width="252" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-65" parent="ozRJ54iigAnFeRuDw9cI-56" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="117" width="752.75" y="731" as="geometry" />
+          <mxGeometry height="97" width="752.75" y="515" as="geometry" />
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-66" parent="ozRJ54iigAnFeRuDw9cI-65" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="cephadm05.openstack.suying" vertex="1">
-          <mxGeometry height="117" width="252" as="geometry">
-            <mxRectangle height="117" width="252" as="alternateBounds" />
+          <mxGeometry height="97" width="252" as="geometry">
+            <mxRectangle height="97" width="252" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-67" parent="ozRJ54iigAnFeRuDw9cI-65" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;机带网卡&lt;/div&gt;&lt;div&gt;IP:10.1.10.94/24&lt;/div&gt;&lt;div&gt;DNS:223.5.5.5.&lt;/div&gt;&lt;div&gt;Gatway:10.1.10.1&lt;/div&gt;" vertex="1">
-          <mxGeometry height="117" width="249" x="252" as="geometry">
-            <mxRectangle height="117" width="249" as="alternateBounds" />
+          <mxGeometry height="97" width="249" x="252" as="geometry">
+            <mxRectangle height="97" width="249" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozRJ54iigAnFeRuDw9cI-68" parent="ozRJ54iigAnFeRuDw9cI-65" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="117" width="252" x="501" as="geometry">
-            <mxRectangle height="117" width="252" as="alternateBounds" />
+          <mxGeometry height="97" width="252" x="501" as="geometry">
+            <mxRectangle height="97" width="252" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-81" parent="ozRJ54iigAnFeRuDw9cI-56" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="98" width="752.75" y="612" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-82" parent="ozRJ54iigAnFeRuDw9cI-81" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="cephadm04.openstack.suying" vertex="1">
+          <mxGeometry height="98" width="252" as="geometry">
+            <mxRectangle height="98" width="252" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-83" parent="ozRJ54iigAnFeRuDw9cI-81" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;机带网卡&lt;/div&gt;&lt;div&gt;IP:10.1.10.93/24&lt;/div&gt;&lt;div&gt;DNS:223.5.5.5.&lt;/div&gt;&lt;div&gt;Gatway:10.1.10.1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="98" width="249" x="252" as="geometry">
+            <mxRectangle height="98" width="249" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-84" parent="ozRJ54iigAnFeRuDw9cI-81" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="98" width="252" x="501" as="geometry">
+            <mxRectangle height="98" width="252" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>

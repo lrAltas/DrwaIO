@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="uRu95vvNP15LyxrI70ch">
-    <mxGraphModel dx="1857" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2115" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,6 +92,12 @@
         </mxCell>
         <mxCell id="aY_nnJ46lgQ6HjUiuNEG-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="浮动IP网络" vertex="1">
           <mxGeometry height="30" width="120" x="-80" y="-260" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Compute节点" vertex="1">
+          <mxGeometry height="30" width="90" x="127.5" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ozRJ54iigAnFeRuDw9cI-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ceph节点节点" vertex="1">
+          <mxGeometry height="30" width="90" x="573.75" y="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
